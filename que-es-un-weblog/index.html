@@ -1,13 +1,9 @@
----
-layout: default
-title: Minid.net
----
-
-<!DOCTYPE html>
-<head>
+<!DOCTYPE HTML>
+<html>
+  <head>
     <meta charset="utf-8">
+    <meta name="description" content="Definición más popular de internet del anglicismo weblog definido por Diego Martín Lafuente desde el 2001">
     <link rel="stylesheet" type="text/css" media="all" href="/css/style.css">
-    <meta name="description" content="">
     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,400italic' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Source+Code+Pro' rel='stylesheet' type='text/css'>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,9 +12,10 @@ title: Minid.net
     <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png" />
     <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png" />
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57-precomposed.png" />
-</head>
-
-<header>
+    <title>Qué es un weblog – Minid.net</title>
+  </head>
+  <body>
+    <header>
   <div class="navbar">
     <div class="navbar-inner">
       <a class="brand" href="/" title="Minid.net" rel="home"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="116px" height="40px" viewBox="0 0 116 40" style="enable-background:new 0 0 116 40;" space="preserve"><circle class="logo4" cx="20" cy="20" r="20"></circle><circle class="logo2" cx="20" cy="20" r="14"></circle> <path class="logo1" d="M27,20c0,3.862-3.134,7-7,7s-7-3.138-7-7c0-3.866,3.134-7,7-7S27,16.134,27,20z"></path> <g> <path class="logotext" d="M52.384,29l-1.69-11.314l-0.098-0.759h-0.146v0.759V29H48V11h3.233l1.567,8.229l0.123,0.955h0.049l0.123-0.955 L54.661,11h3.233v18h-2.449V17.686v-0.759h-0.147L55.2,17.686L53.51,29H52.384z"></path><path class="logotext" d="M59.855,11H62.5v18h-2.645V11z"></path><path class="logotext" d="M67.251,19.62l-0.22-0.832h-0.146v0.832V29H64.46V11h2.35l2.572,9.381l0.221,0.83h0.147v-0.83V11h2.424v18 h-2.351L67.251,19.62z"></path> <path class="logotext" d="M74.133,11h2.645v18h-2.645V11z"></path> <path class="logotext" d="M80.82,29h-2.082V11h2.082c4.897,0.025,5.265,1.959,5.265,9.012C86.085,27.042,85.717,28.976,80.82,29z M81.383,26.356c1.861,0,1.984-0.467,1.959-6.369c0.024-5.877-0.098-6.343-1.959-6.343V26.356z"></path><path class="logo3" d="M87.507,26.28h2.572V29h-2.572V26.28z"></path><path class="logo3" d="M94.487,19.62l-0.22-0.832h-0.147v0.832V29h-2.423V11h2.351l2.572,9.381l0.22,0.83h0.146v-0.83V11h2.425v18 h-2.351L94.487,19.62z"></path> <path class="logo3" d="M101.37,11h6.05v2.718h-3.405v4.727h2.449v2.889h-2.449v4.946h3.405V29h-6.05V11z"></path><path class="logo3" d="M107.959,13.718V11h7.64v2.718h-2.498V29h-2.645V13.718H107.959z"></path></g><path class="logo0" d="M0,20C0,8.954,8.954,0,20,0s20,8.954,20,20H0z"></path></svg></a>
@@ -30,26 +27,77 @@ title: Minid.net
 </header>
 
 <div class="container">
-  <div class="row lema">
-    <div class="span8 offset2">
-      <p><span class="large">Estás leyendo</span> <a href="http://www.minid.net">Minid.net</a><span class="medium">, un blog de tecnología</span><span class="small"> por <a href="/autor/" rel="tooltip" title="Página del autor">Diego <abbr title="Martín">M.</abbr> Lafuente</a></span> <span class="small">desde 2001</span>.</p>
-    </div>
-  </div>
-{% for post in paginator.posts %}
+      <div class="row lema">
+        <div class="span8 offset2">
+          <p><span class="large">Estás leyendo</span> <a href="http://www.minid.net">Minid.net</a><span class="medium">, un blog de tecnología</span><span class="small"> por <a href="/autor/" rel="tooltip" data-original-title="Página del autor">Diego <abbr title="Martín">M.</abbr> Lafuente</a></span> <span class="small">desde 2001</span>.</p>
+        </div>
+      </div>
 
-  <h1>{{ post.title }}</h1>
+      <h1>Qué es un <span>Weblog</span></h1>
 
-  <div class="row">
+      <div class="row">
         <div class="span6 offset3">
           <article>
-          {{ post.content }}
-          </article>
-          <ul class="share">
-            <li>
-              <a href="http://minid.net{{ post.url }}" rel="tooltip" title="Enlace permanente o continuación de la entrada {{ page.title | strip_html }}">
-                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="36px" height="36px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
-                  <path d="M379.722,249.657c-3.636-0.026-6.762,3.12-6.806,6.856c-0.047,3.709,3.044,6.844,6.748,6.85 c3.639,0.005,6.913-3.219,6.896-6.787C386.541,253.008,383.256,249.684,379.722,249.657z"/>
-                  <g>
+
+            <p>Esta quizás no sea la definición oficial ni la más acertada, pero te dará pistas ya que, es un tema bastante caliente. Hay cientos de definiciones sobre lo que es un <em lang="en">weblog</em> o una bitácora –palabra utilizada por la gente que habla español– y la idea es que todos más o menos terminen comprendiendo el tema.</p>
+
+<h3>La definición</h3>
+
+<p>Un <em lang="en">weblog</em> es una página <em lang="en">web</em> de fácil actualización. Sí, tienen esa característica que les permite a los autores de <em lang="en">weblogs</em> publicar contenido (textos, imágenes y otros archivos) con apretar un solo botón. Cualquiera puede editar un <em lang="en">weblog</em> gracias a la cantidad de herramientas que hay en la web para hacerlo. Esta herramienta se conoce, por lo general, con el nombre de gestor de contenidos o <em lang="en">Content Management System</em> (CMS). Con esta herramienta puedes actualizar tu página desde cualquier ordenador con acceso a Internet.</p>
+
+<p>Los <em lang="en">weblogs</em> tienen una característica muy clara, que los define del resto de sitios, y es la cronología. Esta cronología les da el aspecto de un diario personal o bitácora de anotaciones. Empezando por el último tema escrito siguiendo hasta los comienzos, dotando al <em lang="en">weblog</em> de un orden claro y lógico para buscar temas. Esto permite saber que está escribiendo la gente en determinada fecha. Para no perder más el tiempo, voy a graficarles la estructura de un <em lang="en">weblog</em> para que vayan teniendo idea de lo que estoy relatando.</p>
+
+<p>Cada vez que un autor escribe una entrada (o un “post” [palabra en inglés utilizada] también) el gestor de contenidos actualiza la página de inicio con la estructura mencionada en el gráfico. Además, permite agregarle a cada entrada la posibilidad de agregar comentarios, <em lang="en">trackbacks</em> y otras funcionalidades que el programa de gestión de contenidos permita. Cada entrada por lo general tiene una estructura que detallaré ahora:</p>
+
+<ul>
+<li>Fecha</li>
+<li>Título</li>
+<li>Cuerpo de la entrada</li>
+<li>Enlace permanente</li>
+<li>Categoría</li>
+<li>Comentarios</li>
+<li>Trackbacks</li>
+</ul>
+
+<h3>Fecha</h3>
+
+<p>Todos los sistemas de <em lang="en">weblogs</em> tienen la fecha activada para mostrarla en cada entrada. Es el requisito básico para cada <em lang="en">weblog</em>: el orden cronológico. Esto lo hace de forma automática el mismo sistema.</p>
+
+<h3>Título</h3>
+
+<p>Cada vez que un autor escriba una nota, tendrá la posibilidad de titularla a gusto. Por lo general son títulos cortos que no sobrepasan las 10 o 15 palabras.</p>
+
+<h3>Cuerpo de la nota</h3>
+<p>Aquí ya es tema de cada autor. Es donde el autor plasma su creación. Puede ser desde una simple imagen hasta una nota de diez mil palabras.</p>
+
+<h3>Enlace permanente</h3>
+
+<p>Esta es otra característica de los <em lang="en">weblogs</em>, el enlace permanente. Este enlace va en cada nota creada por el autor. Permite a otros autores o no de <em lang="en">weblogs</em> referenciar esa nota en concreto. Haciendo clic en este enlace se accede a la página individual de esa entrada.</p>
+
+<h3>Categoría</h3>
+
+<p>La categoría es una funcionalidad que por lo general está puesta en <em lang="en">weblogs</em> para categorizar cada entrada. Tanto por fechas y de forma automática, la categorización se hace a mano, o sea, el mismo autor indicará cada vez que publique una entrada en qué categorías deberá estar alojada.</p>
+
+<h3>Comentarios</h3>
+
+<p>Depende la política de cada webloguer, puede o no incluir la posibilidad de dejar comentarios o anotaciones en cada entrada. Esto puede variar, pero como podrán comprobar en este weblog, los comentarios están disponibles para cada entrada del weblog.
+
+<h3>Trackbacks</h3>
+
+</p><p>Los trackbacks o pingbacks son enlaces que provienen de otro weblog que hace referencia al artículo escrito por el <em lang="en">webloguer</em>. Esto se desarrolla de forma automática por la gran mayoría de los sistemas de <em lang="en">weblogs</em>.</p>
+
+<h3>El «bloguero»</h3>
+
+<p>Comúnmente se llama bloguero (<em lang="en">weblogger</em> en inglés) al autor de un <em lang="en">weblog</em>. También se pueden leer variantes de la palabra inglesa <em lang="en">weblog</em>, como por ejemplo <em lang="en">blogger</em>. Esta persona es la que se encarga de llevar el chiringuito y tiene el control absoluto de su blog. Los <em lang="en">weblog</em> suelen ser unipersonales, mientras que cada día salen más variantes de <em lang="en">weblog</em> conducidos por dos o más personas, éstos últimos son conocidos como <em lang="en">weblog</em> grupales.</p>
+
+</article>
+
+<ul class="share">
+  <li>
+    <a href="http://minid.net/que-es-un-weblog/" rel="tooltip" title="Enlace permanente o continuación de la entrada Qué es un weblog">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="36px" height="36px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+        <path d="M379.722,249.657c-3.636-0.026-6.762,3.12-6.806,6.856c-0.047,3.709,3.044,6.844,6.748,6.85 c3.639,0.005,6.913-3.219,6.896-6.787C386.541,253.008,383.256,249.684,379.722,249.657z"/>
+          <g>
                     <path d="M291.385,242.469c-5.838,5.839-15.306,5.839-21.145,0c-5.839-5.839-5.839-15.306,0-21.145l15.624-15.625 c-10.859-3.284-23.144-0.646-31.713,7.923l-40.833,40.833c-8.568,8.567-11.207,20.852-7.923,31.711l15.636-15.635 c5.839-5.84,15.307-5.84,21.146,0c5.839,5.839,5.839,15.305,0,21.145l-15.636,15.637c10.86,3.283,23.144,0.646,31.713-7.922 l40.833-40.833c8.568-8.569,11.206-20.853,7.923-31.713L291.385,242.469z"/>
                     <path d="M256.208,50.5c-113.771,0-206,92.229-206,206c0,113.771,92.229,206,206,206c113.77,0,206-92.229,206-206 C462.208,142.729,369.979,50.5,256.208,50.5z M366.829,167.024l-37.721,37.721c14.043,23.477,10.954,54.343-9.269,74.567 l-40.833,40.832c-20.222,20.224-51.088,23.31-74.565,9.267l-37.708,37.71c-5.839,5.84-15.306,5.84-21.145,0 c-5.84-5.839-5.84-15.306,0-21.145l37.708-37.71c-14.041-23.475-10.955-54.341,9.269-74.564l40.833-40.833 c20.222-20.223,51.089-23.31,74.565-9.269l37.721-37.721c5.839-5.838,15.306-5.838,21.145,0 C372.669,151.718,372.669,161.185,366.829,167.024z"/>
                   </g>
@@ -57,21 +105,21 @@ title: Minid.net
               </a>
             </li>
             <li>
-              <a rel="tooltip" title="Publica esta entrada en Twitter" href="http://twitter.com/share?url=http://minid.net{{ post.url }}&text={{ page.title | strip_html }}" target="_blank" rel="nofollow">
+              <a rel="tooltip" title="Publica esta entrada en Twitter" href="http://twitter.com/share?url=http://minid.net/que-es-un-weblog/&text=Qué es un weblog" target="_blank" rel="nofollow">
                 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="36px" height="36px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
                   <path id="twitter-4-icon" d="M256,50C142.229,50,50,142.229,50,256s92.229,206,206,206s206-92.229,206-206S369.771,50,256,50z M359.599,220.506c3.021,67.199-47.096,142.124-135.802,142.124c-26.981,0-52.096-7.911-73.238-21.466 c25.347,2.987,50.646-4.044,70.734-19.786c-20.907-0.386-38.554-14.198-44.632-33.181c7.486,1.432,14.851,1.013,21.575-0.816 c-22.976-4.617-38.839-25.317-38.321-47.453c6.44,3.58,13.81,5.729,21.642,5.977c-21.278-14.221-27.303-42.318-14.785-63.789 c23.563,28.906,58.77,47.928,98.478,49.92c-6.969-29.886,15.702-58.667,46.542-58.667c13.742,0,26.16,5.802,34.874,15.088 c10.884-2.143,21.108-6.119,30.341-11.594c-3.567,11.157-11.144,20.521-21.008,26.433c9.665-1.153,18.874-3.722,27.441-7.523 C377.035,205.355,368.935,213.771,359.599,220.506z" />
                 </svg>
               </a>
             </li>
             <li>
-              <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://minid.net{{ post.url }}&title={{ page.title | strip_html }}&summary=&source=minid.net" target="_new" title="Comparte el artículo {{ page.title | strip_html }} en Linkedin" rel="tooltip">
+              <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://minid.net/que-es-un-weblog/&title=Qué es un weblog&summary=&source=minid.net" target="_new" title="Comparte el artículo Qué es un weblog en Linkedin" rel="tooltip">
                 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="36px" height="36px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
                   <path id="linkedin-circle-icon" d="M256.417,50c-113.771,0-206,92.229-206,206s92.229,206,206,206s206-92.229,206-206 S370.188,50,256.417,50z M201.456,355.592h-45.229V209.469h45.229V355.592z M178.626,190.333c-14.771,0-26.746-12.072-26.746-26.963 s11.975-26.963,26.746-26.963c14.77,0,26.745,12.072,26.745,26.963S193.396,190.333,178.626,190.333z M370.953,355.592h-45.01 c0,0,0-55.666,0-76.703s-7.991-32.781-24.626-32.781c-18.103,0-27.562,12.231-27.562,32.781c0,22.504,0,76.703,0,76.703h-43.38 V209.469h43.38v19.679c0,0,13.047-24.137,44.032-24.137c30.986,0,53.165,18.918,53.165,58.058 C370.953,302.209,370.953,355.592,370.953,355.592z"/>
                 </svg>
               </a>
             </li>
             <li>
-              <a href="http://www.meneame.net/submit.php?url=http://minid.net{{ post.url }}" target="_blank" title="Enviar este artículo a Meneame.net" rel="tooltip">
+              <a href="http://www.meneame.net/submit.php?url=http://minid.net/que-es-un-weblog/" target="_blank" title="Enviar este artículo a Meneame.net" rel="tooltip">
                 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="36px" height="36px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
                   <g>
                     <path fill-rule="evenodd" clip-rule="evenodd" d="M256.417,51c-113.771,0-206,92.229-206,206c0,113.771,92.229,206,206,206 s206-92.229,206-206C462.417,143.229,370.188,51,256.417,51z M390.251,313.779c-0.155,1.416-0.449,2.818-0.868,5.376 c-0.254,2.515-1.109,7.384-1.227,8.312c-1.458,11.41-4.482,22.246-12.618,30.933c-7.588,8.104-17.396,10.983-28.049,10.906 c-12.729-0.094-22.124-13.485-18.03-25.104c0.177-0.498,0.473-0.959,0.508-1.027c3.389,0.778,6.562,1.354,9.628,2.28 c1.404,0.427,2.712,1.399,3.869,2.358c4.719,3.919,8.304,3.45,10.491-2.229c1.667-4.322,2.797-9.061,3.051-13.675 c0.588-10.625,0.473-21.293,0.702-31.938c0.044-1.943-0.727-2.758-2.635-3.106c-9.104-1.662-15.043-6.589-16.444-16.176 c-0.109-0.755-0.979-1.784-1.699-2.002c-6.338-1.902-12.896,0.813-16.135,6.608c-2.813,5.035-3.743,10.555-3.757,16.229 c-0.043,17.741-0.009,35.482-0.022,53.227c-0.005,8.826-2.862,11.688-11.719,11.71c-11.232,0.027-22.46,0.043-33.689-0.007 c-8.212-0.032-11.075-2.962-11.095-11.242c-0.024-10.657-0.005-21.312-0.005-32.823c-21.766,13.573-43.084,14.83-64.923,0.172 c0,3.003,0,5.199,0,7.396c0,8.423,0.025,16.845-0.007,25.268c-0.034,8.183-3.069,11.231-11.181,11.244 c-11.341,0.022-22.683,0.026-34.024-0.01c-8.488-0.024-11.284-2.84-11.292-11.371c-0.019-21.112-0.006-42.224-0.012-63.335 c0-1.008,0.216-2.161-0.199-2.979c-0.371-0.725-1.483-1.483-2.257-1.473c-0.762,0.008-1.826,0.814-2.189,1.55 c-0.528,1.069-0.556,2.386-0.776,3.601c-1.452,7.981-4.677,15.229-9.449,21.727c-0.717,0.977-2.81,0.944-4.265,1.375 c-0.121-1.514-0.935-3.549-0.253-4.461c7.062-9.45,9.162-20.45,9.75-31.737c0.862-16.565,1.292-33.158,1.575-49.747 c0.152-8.76,2.89-16.791,6.126-24.652c13.091-31.814,37.875-49.431,70.502-57.206c26.325-6.274,51.685-2.478,76.424,7.61 c1.719,0.702,3.94,0.92,5.75,0.534c17.552-3.751,35.184-6.127,53.125-3.378c20.892,3.201,37.078,13.369,46.11,32.923 c2.121,4.587,2.251,10.21,2.739,15.41C395.321,238.541,394.397,276.186,390.251,313.779z"/>
@@ -81,17 +129,17 @@ title: Minid.net
               </a>
             </li>
             <li>
-              <a href="https://plus.google.com/share?url=http://minid.net{{ post.url }}" target="_blank" rel="tooltip" title="Comparte este artículo en Google+">
+              <a href="https://plus.google.com/share?url=http://minid.net/que-es-un-weblog/" target="_blank" rel="tooltip" title="Comparte este artículo en Google+">
                 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="36px" height="36px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
                   <path id="google-plus-circle-icon" d="M273.369,331.659c0,20.247-16.443,36.065-50.481,36.065c-26.625,0-45.852-16.854-45.852-37.1 c0-19.84,22.562-36.957,49.186-36.664C255.762,293.961,273.369,312.358,273.369,331.659z M462.417,257c0,113.771-92.229,206-206,206 s-206-92.229-206-206s92.229-206,206-206S462.417,143.229,462.417,257z M296.303,329.305c0-18.691-6.979-30.903-28.096-46.725 c-21.417-15.619-26.65-24.443-6.208-40.248c11.519-8.906,19.591-20.778,19.591-35.436c0-15.969-6.53-30.457-18.809-37.492h17.404 l14.816-15.551c0,0-55.854,0-66.303,0c-41.39,0-61.685,24.809-61.685,52.098c0,27.889,19.132,49.854,56.492,49.854 c-5.792,11.693-3.466,22.494,6.011,30.217c-63.807,0-77.461,27.998-77.461,49.566c0,27.945,32.123,44.559,70.643,44.559 C275.367,380.146,296.303,352.234,296.303,329.305z M382.776,187.5h-30.589v-30.588h-15.293V187.5h-30.589v15.294h30.589v30.588 h15.293v-30.588h30.589V187.5z M254.949,207.894c-3.083-23.466-18.371-42.719-36.234-43.256 c-17.869-0.532-29.854,17.427-26.767,40.899c3.085,23.467,20.067,39.859,37.939,40.398 C247.75,246.467,258.031,231.363,254.949,207.894z"/>
                 </svg>
               </a>
             </li>
           </ul>
-          <p class="colofon">{{ post.date  | date_to_long_string }}</p>
-        </div>
-  </div>
-  <hr>
+        <p class="colofon">Actualizado el 23 de febrero de 2013</p>
+      </div>
+    </div>
+      <hr>
   <div class="row">
     <div class="span8 offset2 autor">
           <svg version="1.1" id="minid" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="70px" height="70px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve" rel="tooltip" title="DEAL WITH IT">
@@ -237,25 +285,9 @@ title: Minid.net
           </svg>
           <p><a href="/autor/">Diego Lafuente</a> es el autor del blog minid.net desde el año 2001. En Twitter lo podrás encontrar como <a href="http://www.twitter.com/minid">@minid</a> y también está accesible en <a href="https://plus.google.com/107159313684622289512/">Google+</a>, pero también le puedes <a href="/contacto/">contactar por email</a>. Es <cite>La Ira de Khan</cite>. Diseñador, coder, UX/UI hacker y usuario veterano de casi todas las .com.</p>
         </div>
-      </div>
-{% endfor %}
-
-  <div class="row">
-    <div class="span12">
-      <ul class="pager">
-        {% if paginator.previous_page %}
-        <li class="previous"><a href="/page{{paginator.previous_page}}">☜ Artículos previos</a></li>
-        {% else %}
-        {% endif %}
-        {% if paginator.next_page %}
-        <li class="next"><a href="/page{{paginator.next_page}}">Siguientes artículos ☞</a>
-        {% else %}
-        {% endif %}
-      </ul>
     </div>
   </div>
-</div>
-
+  <br><br>
   <footer>
       <div class="container">
         <div class="row">

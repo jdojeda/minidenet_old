@@ -1,3 +1,7 @@
 /public/
 /_posts/
+/fonts/
+/less/
 .DS*
+minid.sh
+/*.png
