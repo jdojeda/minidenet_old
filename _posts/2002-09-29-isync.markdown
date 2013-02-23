@@ -1,0 +1,17 @@
+---
+comments: false
+date: 2002-09-29 15:58:27
+layout: post
+slug: isync
+title: iSync
+wordpress_id: 574
+categories:
+- Internet
+---
+
+Apple anuncia la versión beta de su “programita” [iSync](http://www.apple.com/isync/), que te permite sincronizar y mantener tus contactos, calendarios, Palms y cuentas [.mac](http://www.mac.com) al día, podés sincronizar el iPod, tu teléfono móvil con la tecnología [Bluetooth](http://www.apple.com/bluetooth/).
+
+
+
+
+ 

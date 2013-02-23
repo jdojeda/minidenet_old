@@ -1,0 +1,35 @@
+---
+comments: false
+date: 2004-06-28 21:50:28
+layout: post
+slug: 30-pulgadas
+title: 30 pulgadas
+wordpress_id: 1817
+categories:
+- Internet
+---
+
+Los nuevos monitos [Cinema HD Display de 20, 23 y 30 pulgadas](http://www.apple.com/es/displays/) es algo de no creer. De por sí, el de 30 pulgadas es una pasada… 30 pulgadas, 60 si tuvieras dos, ¡que digo! es una locura, necesitaría un buen escritorio y un masajista para calmar los dolores de cuello. Eso sí, nada barato, como siempre los monitores de Apple fueron buenos pero caritos, habrá que esperar a que nos saquemos la lotería o que Apple degrade los precios al pasar los años.
+
+
+
+
+
+El nuevo monitor de 30” requiere algo extra: funciona sólo en los nuevos equipos con una placa de vídeo adicional. La tarjeta gráfica GeForce 6800 Ultra DDL de NVIDIA viene con el motor gráfico más avanzado disponible para Mac. Diseñada concienzudamente para admitir la conexión DVI de doble canal, esta tarjeta ofrece una resolución de 2.560 por 1.600. Pero eso no es todo puesto que es capaz de alimentar a dos monitores de 30 pulgadas para que liberes tu poder creativo sobre el lienzo más avanzado. Esta tarjeta de 669  estará disponible como opción de configuración a medida y como artículo por separado a partir de agosto de 2004.
+
+
+
+
+
+Otra de las joyitas de la presentación WWDC 2004 es el nuevo Mac OS X 10.4 Tiger, con más de 150 novedades. La más importante que será un Unix de 64-bits, o sea adiós a la idea de usar un sistema 32 bits en un motor de 64. Plus, otra cantidad incesante de cosas, como el nuevo Safari 2, que se rumorea que vendrá con un lector de RSS, que rico.
+
+
+
+
+
+El nuevo Mac OS X, saldrá en el primer cuarto del 2005.
+
+
+
+
+ 

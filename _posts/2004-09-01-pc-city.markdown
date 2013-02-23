@@ -1,0 +1,41 @@
+---
+comments: false
+date: 2004-09-01 11:51:40
+layout: post
+slug: pc-city
+title: PC City
+wordpress_id: 1951
+categories:
+- Internet
+---
+
+Estoy comparando precios de muchas tiendas que venden PC Clónicos y me encontré con una que supuestamente es la más grande, se llama [PC City](http://www.pccity.es). La página Web es la anti-tésis de lo que debería ser una página web, y eso que estamos en el año 2004.
+
+
+
+
+
+Por un momento pensé que esto sólo aparecía en mis pesadillas.
+
+
+
+
+
+Antes que montar algo así, prefiero una página que diga:
+
+
+
+
+
+> Bienvenidos a nuestra página. Utilice estos teléfonos aquí listados para pedir información sobre nuestros precios del día.
+
+
+
+
+
+Imagino que ya debía de estar indexada en el weblog [Que Web!](http://www.queweb.org/).
+
+
+
+
+ 

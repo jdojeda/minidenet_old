@@ -1,0 +1,17 @@
+---
+comments: false
+date: 2003-05-31 16:30:07
+layout: post
+slug: movable-type-264
+title: Movable Type 2.64
+wordpress_id: 976
+categories:
+- Internet
+---
+
+Una nueva versión de [Movable Type](http://www.movabletype.org) acaba de lanzarse es la [MT 2.64](http://www.movabletype.org/download.shtml), un número significante de huecos [han sido arreglados](http://www.movabletype.org/docs/mtchanges.html#2.64%20(2003.05.28)) sobre todo los que se relacionan con operaciones entre sitios, esto incluyen, búsquedas, Trackbacks, comentarios, notificaciones.
+
+
+
+
+ 

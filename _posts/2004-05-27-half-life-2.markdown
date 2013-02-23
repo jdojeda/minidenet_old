@@ -1,0 +1,133 @@
+---
+comments: false
+date: 2004-05-27 12:36:19
+layout: post
+slug: half-life-2
+title: Half Life 2
+wordpress_id: 1742
+categories:
+- Internet
+---
+
+Luego de haber pasado por la mala experiencia de ser robados por un **cracker**, la gente de [Valve](http://www.valvesoftware.com), muestra en el E3 2004 la nueva versión del [Half Life 2](http://www.half-life2.com). Llevan 1 año de retraso por el episodio del robo de sus archivos fuentes y demases archivos complementarios (imágenes, audio, mapas).
+
+
+
+
+
+Sobre la historia
+
+
+
+
+
+En lo que se puede apreciar en el vídeo, es que, supuestamente comienzas saliendo del tren que habías tomado en la primera parte del juego. Te encuentras en una ciudad, controlada por una especie de raza alienígena y robótica que controla a los humanos, a los cuales llaman ciudadanos todo el tiempo. La atmósfera de la ciudad y los lugares son increíbles. Cualquier objeto sirve para algo, incluso hasta para matar (Ej. un destornillador).
+
+
+
+
+
+![Imagen del Juego Half-Life 2](http://www.minid.net/images/patrol.png)
+
+
+
+
+
+Las armas
+
+
+
+
+
+Las armas, todos juegos _first shoot_ traen armas novedosas. Half Life 2 trae las armas clásicas y unos nuevos juguetes, que personalmente, me gusta uno que se podría definir como un desmaterializador. La otra joya destructiva es una arma magnética. Digo magnética porque puede arrastrar casi cualquier cosa que propongas, hasta cuerpos, bombas, herramientas, etc.
+
+
+
+
+
+![Fotos de Aliens](http://www.minid.net/images/aliens.png)
+
+
+
+
+
+Los monstruos
+
+
+
+
+
+Otro factor interesante para comentar son los monstruos. Hay para todos los gustos, desde los típicos _aliens_ hasta complejos robots devastadores llamados striders que pueden apreciar en la siguiente fotografía:
+
+
+
+
+
+![Foto de un Strider](http://www.minid.net/images/strider1.png)
+
+
+
+
+
+![Foto de un Strider](http://www.minid.net/images/strider2.png)
+
+
+
+
+
+Según los debates que armamos entre amigos, hemos averiguado que estos monstruos están montados con tanta complejidad que es increíble verles actuar. Tienen 3 patas como si fueran agujas, con las cuales caminan, matan, quitan objectos de lugar y atraviesan cuerpos del ejercito de la rebelión y los lanzan por el aire. Además poseen un cañón desmaterializador que mata casi al primer tiro.
+
+
+
+
+
+¿Cuando sale el juego?
+
+
+
+
+
+Este juego saldrá este verano (según amigos que se dedican al tema, entre agosto y septiembre), y [en el vídeo de la presentación](http://www.eurofiles.net/torrents/Half%20Life%202%20and%20CounterStrike%20E3%20demo%20movie.avi.torrent) en el E3, se pueden apreciar todos los detalles mencionados.
+
+
+
+
+
+Esta nueva versión promete, sí señores. Eso sí, para disfrutarlo a pleno, deberán actualizar la máquina porque los requerimientos serán aproximadamente:
+
+
+
+
+
+  
+
+Mínimo:
+
+    
+
+PC a 700 Mhz con 128 MB RAM y una tarjeta de vídeo DX6 (ejemplo: una Nvidia TNT2).
+
+
+
+
+
+THAT’S SO LA CONFIG:
+
+    
+
+PC a 2000 Mhz en adelante con 512 MB RAM y una tarjeta de vídeo Radeon 9600 o superior (o equivalentes que sean DX9).
+
+  
+
+
+
+
+
+
+
+_Wake up Mr. Freeman, wake up and smell the ashes._
+
+
+
+
+ 

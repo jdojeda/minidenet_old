@@ -1,0 +1,17 @@
+---
+comments: false
+date: 2001-12-07 02:40:13
+layout: post
+slug: None
+title: '&#928;'
+wordpress_id: 101
+categories:
+- Internet
+---
+
+PI (&#928;) es valor muy conocido, pero su URL me parece que va a ser un poco [dificil](http://3.14159265358979323846264338327950288419716939937510582097.org/) de conocer.
+
+
+
+
+ 

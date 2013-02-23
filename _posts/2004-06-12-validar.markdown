@@ -1,0 +1,35 @@
+---
+comments: false
+date: 2004-06-12 17:50:46
+layout: post
+slug: validar
+title: Validar
+wordpress_id: 1778
+categories:
+- Internet
+---
+
+Hace unos minutos termino de arreglar los tags mal cerrados, los caracteres que no están bien convertidos a entidades para que esta página [pase el control de validación](http://validator.w3.org/check?uri=http%3A%2F%2Fwww.minid.net%2F&charset=%28detect+automatically%29&doctype=%28detect+automatically%29&ss=1#line-830) de los estándares web.
+
+
+
+
+
+> This Page Is Valid [XHTML 1.0](http://www.w3.org/TR/2000/REC-xhtml1-20000126/) Strict!
+
+
+
+
+
+Ahora todas las páginas internas validan dependiendo, siempre y cuando, haya escrito correctamente tags en los posts y traducido los & en las URLs.
+
+
+
+
+
+¡Volver a validar da gusto!
+
+
+
+
+ 

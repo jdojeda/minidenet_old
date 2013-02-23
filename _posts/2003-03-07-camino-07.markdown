@@ -1,0 +1,17 @@
+---
+comments: false
+date: 2003-03-07 09:09:22
+layout: post
+slug: camino-07
+title: Camino 0.7
+wordpress_id: 870
+categories:
+- Internet
+---
+
+Ya está disponible para su descarga [Camino&trade; 0.7](http://www.mozilla.org/projects/camino/), vale la pena mirar también [los cambios hechos](http://www.mozilla.org/projects/camino/releasenotes.html).
+
+
+
+
+ 

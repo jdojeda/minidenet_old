@@ -1,0 +1,107 @@
+---
+comments: false
+date: 2004-04-06 10:13:11
+layout: post
+slug: wbloggar
+title: w.Bloggar
+wordpress_id: 1639
+categories:
+- Internet
+---
+
+[w.Bloggar](http://www.wbloggar.com) es un editor de blogs fuera de línea universal. Puedes escribir tus entradas desde tu ordenador y subirlas a tu weblog cuando quieras. También puedes editar entradas que hayas hecho, el programa descarga la información necesaria de tu sitio para que puedas editar posts, categorias y además soporta algunos plug-ins muy buenos, por ejemplo ahora he instalado uno que me permite publicar el track del iTunes que estoy escuchando.
+
+
+
+
+
+[w.Bloggar](http://www.wbloggar.com) permite publicar en varios sistemas de weblogs, me refiero a que si tienes una cuenta de [Blogger](http://www.blogger.com) o  [Movable Type](http://www.movabletype.org) puedes manejar todo tu blog con este programa. Hasta el momento soporta:
+
+
+
+
+
+  
+
+
+  * Blogger
+
+
+  * b2
+
+
+  * MovableType
+
+
+  * Nucleus
+
+
+  * BigBlogTool
+
+
+  * BlogWorks XML
+
+
+  * Blogalia
+
+
+  * Drupal
+
+
+  * Xoops
+
+
+  * E-Xoops
+
+
+  * Upsaid
+
+
+  * PostNuke
+
+
+  * TheBlog
+
+
+  * Blog-City
+
+
+  * Blogjsom
+
+
+  * Roller Weblogger
+
+
+  * Domino
+
+
+  * LiveJournal
+
+
+  * EraBlog.NET
+
+
+  * pMachine
+
+
+  * TypePad
+
+
+  * YACS
+
+
+
+
+
+Si lo comparo con [Zempt](http://www.zempt.com), me doy cuenta de dos cosas: que Zempt está mejor acabado en detalles, pero en funcionamiento [w.Bloggar](http://www.wbloggar.com) hace que cambie de opinión; Segundo: [w.Bloggar](http://www.wbloggar.com) no me ha dado problemas, ni editando posts, ni publicando con etiquetas de HTML, en cambio Zempt _sí me ha dado errores_, la mayoría relacionados con el uso del parser.
+
+
+
+
+
+Lo recomiendo para el que está todo el día en un portátil y no quiere escribir URLs ni esperar a que se recargue la pantalla de MT cada vez que quiera editar algo. Ah, y me olvidaba de algo: el programa está disponible en español.
+
+
+
+
+ 

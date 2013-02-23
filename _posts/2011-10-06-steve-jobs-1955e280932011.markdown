@@ -1,0 +1,12 @@
+---
+comments: true
+date: 2011-10-06 02:59:59
+layout: post
+slug: steve-jobs-1955%e2%80%932011
+title: Steve Jobs (1955–2011)
+wordpress_id: 3601
+categories:
+- Internet
+---
+
+[Muere un grande](http://www.apple.com/stevejobs/). Nace una leyenda.

@@ -1,0 +1,21 @@
+---
+comments: false
+date: 2001-11-09 20:56:29
+layout: post
+slug: got-css
+title: Got CSS?
+wordpress_id: 51
+categories:
+- Internet
+---
+
+No recuerdo haberles comentado que estoy inscripto en una lista de desarrolladores web que se llama [Babble List](http://www.babblelist.com), en donde he intercambiado un par de e-mails con [Eric   
+
+A. Meyer](http://www.meyerweb.com/), creador de los libros [Cascading   
+
+Style Sheet: The Definitive Guide](http://www.amazon.com/exec/obidos/ASIN/1565926226/minidexperide-20) y [Cascading Style Sheets 2.0 Programmer&#039;s Reference](http://www.amazon.com/exec/obidos/ASIN/0072131780/minidexperide-20), resulta que este episodio me ha dado a conocer el [sitio de experimentación](http://www.meyerweb.com/eric/css/edge/) que él posee, muy buenos ejemplos de hojas de estilo CSS sin usar **javascripts**, lo recomiendo.
+
+
+
+
+ 

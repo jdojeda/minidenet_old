@@ -1,0 +1,17 @@
+---
+comments: false
+date: 2002-04-04 03:37:49
+layout: post
+slug: cookies
+title: Cookies
+wordpress_id: 301
+categories:
+- Internet
+---
+
+Ya funcionan las cookies, no les puedo expresar mi alegria escribiendo… pero ya he dado dos vueltas carnero hacia atrás. Espero que haya terminado el dolor de cabeza para todos cuando escribian en los comments.
+
+
+
+
+ 

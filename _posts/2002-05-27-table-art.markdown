@@ -1,0 +1,17 @@
+---
+comments: false
+date: 2002-05-27 09:16:29
+layout: post
+slug: table-art
+title: Table art
+wordpress_id: 394
+categories:
+- Internet
+---
+
+HTML pimps tomen nota de [TableArt](http://www.graphci.com/tableart/), es una competencia, bueno como dicen en el sitio es una &#34;Semi&#34; competencia, muy rara, se trata de crear arte en una tabla de 100&#215;100 celdas de máximo tamaño.
+
+
+
+
+ 

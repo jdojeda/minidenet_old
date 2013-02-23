@@ -1,0 +1,17 @@
+---
+comments: false
+date: 2001-12-17 02:05:05
+layout: post
+slug: canas-de-color-669966
+title: 'Canas de color #669966'
+wordpress_id: 123
+categories:
+- Internet
+---
+
+Debo decir que Blogger me esta sacando canas. Y de color `#669966`.
+
+
+
+
+ 

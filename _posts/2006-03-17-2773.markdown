@@ -1,0 +1,68 @@
+---
+comments: false
+date: 2006-03-17 15:24:25
+layout: post
+slug: '2773'
+title: Factores en el software libre
+wordpress_id: 2773
+categories:
+- Internet
+---
+
+Uf, un poco de respiro en el blog me tenía quedar. Ya pasaron unos cuantos días sin publicar nada relacionado con algo que sea un aviso. El miércoles, cuando estaba en Palma de Mallorca, me pasó algo gracioso, escuché una conversación entre dos informáticos asimilados por el mundo Microsoft mientras desayunaba en un bar.
+
+
+
+
+
+Hablaban de JSP y XSLT sin parar, que esto y que lo otro. En una de esos respiros distendidos, uno le dice al otro: –Deberías probar Linux –mientras cogía su taza de colacao. El otro, mucha pinta de programador no tenía, puso una cara de total desacuerdo y en un gesto de sinceridad hacia su compañero de trabajo le contesta: –yo paso de aprender otro sistema operativo… además, ese Linux es el que tiene todo en modo texto, aj, ¿no es ése RedHat 6 no? –mientras su mirada  huía despavorida de su compañero en gesto de cambiemos de tema. En cambio, su compañero le dijo que no. Que existían entornos de ventana “KDE”, mientras el otro intentaba memorizar su próxima desaprobación. Le dijo que Redhat no era un Linux porque era muy grande, en eso saca como quien desenfunda un arma de su chaqueta un CD de estos que se graban en casa con la inscripción hecha con marcador que decía “knopix” y le espeta: –esto es un Linux, ¿sabes porqué?... ¡porque entra en un CD! –mientras ponía cara de «aquí tengo la cosa maravillosa»–.
+
+
+
+<!-- more -->
+
+
+
+Bien, si bien la picaresca de la historia no es lo que quería abordar, nos centramos en el tema conocimiento. Es verdad, luego de hablar con Ricardo sobre el tema, no cabe duda que Linux es un sistema creado para que la gente haga lo que quiera y como quiera. El problema que tiene es eso mismo: anarquismo total. Hablando en palabras mayores, muchos usuarios saben que Microsoft tiene un sistema operativo llamado XP que es el último en este caso. Volviendo a la conversación podemos descubrir dos cosas: la ignorancia sobre el tema Linux y la ignorancia de su propio tope. Tomad la palabra ignorancia como su propia naturaleza, el que sin querer no se ha enterado, no va con tono insultante. Parece que, ningún usuario no-linux sabe sobre Linux lo que puede llegar a saber de otros sistemas. Creo que ningún usuario de Macintosh que conozco me ha dicho que el último sistema es el 9.2 o que el último sistema operativo es un Windows 98. Sin embargo, en Linux esto es perceptible al vuelo.
+
+
+
+
+
+[Ricardo](http://mnm.uib.es/gallir/) me ha comentado su opinión y se vertía –hasta donde pude entenderle– por varios lados. Primero que es difícil que cientos de distribuciones se pongan de acuerdo, no sólo en innovación sino en nombres o información. Segundo que _no_ todas las distribuciones tienen interés en llegar a la gran masa, sólo unas pocas se preocupan por el usuario final. La otra es una creencia muy pintorezca, tenemos un ataque de _versionitis_, algo que no debemos tomar y por último que es difícil empaquetar GNU/Linux en un solo contenedor.
+
+
+
+
+
+Mi punto de vista sobre el tema pasa por esto: _no hay conciencia colectiva de lo que realmente es Linux_, si saben a duras penas algunas cosas, esto pasa principalmente por la escasa penetración que tiene Linux comercialmente hablando. Empezando por orden de publicación. Es verdad que hay dos, tres, cuatro o diez distribuciones que se pueden descargar, adquirir o grabar en un CD para luego instalarlo, pero en la realidad es que esto no es facto de este conjunto. O sea, pueden existir versiones en DVD, en 6 CDs, en 3 y así siguen. Creo que es tan importante que se sepa que «Linux» en su concepto funcional sólo es un CD de instalación –por decir un ejemplo–, por más que luego podamos inyectarle 3 gigas de programas. Es importante porque el usuario sabe que con un CD podría tenerlo todo. Además el sólo hecho de ver 4 CDs o un DVD sólo demuestra otra imagen, aunque se le explique que en el resto de los CDs hay herramientas, documentación y código fuente de miles de programas. Por otro lado, no hay una clara definición de status, lo que me induce a pensar que muy pocos usuarios saben realmente cuál es la última versión. Esto es difícil de precisar porque en una semana o un día Fedora 2 puede pasar a ser Fedora 3 y así con el resto. Creo que Linux necesita un factor que le ayude a ejemplificar su estado máximo, como el mundo monopólico un ser humano sabe que XP es la versión más nueva que puede adquirir, casi de forma instintiva, Linux necesita un factor númerico o subjetivo como lo es una palabra que denote lo mismo. Esto a simple vista y deseo es difícil, pero empiezo a creer que si marcaran como factor clave la palabra «con kernel 3» ayudaría al usuario a llevar la cuenta.
+
+
+
+
+
+Entrando en este factor, el kernel, creo que podemos igualar a todas las distribuciones de cara al usuario que desea saber, sin informarse demasiado. Colectivamente es más fácil de seguir y de transmitir: dos amigos se encuentran en la sala del instituto con sus portátiles. Uno le dice al otro: –hoy me he comprado una distro Menguante Linux con Kernel 3!, mientras el otro le contesta que él ya tiene la versión 4. Colectivamente es fácil saber que el mejor Windows es XP, el mejor Mac OS X es el Tiger pero es difícil saber qué distribución es la mejor por otros aspectos. La gente entendida sobre esto sabrá de lo que hablo, es bastante subjetivo afirmar qué distro es mejor ya que esto está hecho para el antojo de todos.
+
+
+
+
+
+Teniendo este factor, da igual si el usuario sabe o no las ventajas, estará preocupado por comprarse, descarse o adquirir otra distribución que tenga ese factor o uno mejor. Si un usuario usaba Knopix factor 3 y el usuario ve en una tienda de revistas una Ubuntu que indica un factor 4, éste querrá actualizarse seguramente.
+
+
+
+
+
+Hace exactamente una semana perdí mi teléfono Rzr V3 de Motorola. Una pena sí, tuve que ir a comprarme uno igual para aprovechar todo lo que tenía, además porque me gusta el teléfono. En la tienda de móviles, un usuario miraba los dos teléfonos Motorola Rzr V3 que tenían en venta. La diferencia era que uno de ellos no era el V3 sino que era V3i. Ese factor «i» fue decisivo para la compra del teléfono, no sus características diferenciales, créanme fue así. Ponerme a hablar las diferencias magistrales de éste modelillo no viene a cuento, pero tampoco son un factor decisivo de cambio. De hecho he comprado el mismo modelo que tenía antes porque sé cada maldita ventaja que tiene. Pero el usuario de pie quiere el mejor, y el mejor es el que trae el factor más grande.
+
+
+
+
+
+Así uno se encontrará cientos de ejemplos, monopólicos o no como el de Microsoft, en el rubro de los coches pasan cosas graciosas que impulsan a diferenciar, por decir un ejemplo el Ford Ka y el Ford Ka MP3. Si ponemos a un entendido del tema sabrá que ambos coches son iguales, con la diferencia que uno trae un reproductor de MP3 incluído y el otro necesita conectarse con éste mediante un cable. Los dos coches van igual de rápido y consumen lo mismo, las probabilidades de sacarse la vida en un accidente son las mismas y no existen otros factores que realmente beneficien al usuario de forma sustancial.
+
+
+
+
+
+¿Necesitamos factores en el software libre?

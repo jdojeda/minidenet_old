@@ -1,0 +1,17 @@
+---
+comments: false
+date: 2004-10-29 21:35:45
+layout: post
+slug: ya-est
+title: Ya está
+wordpress_id: 2072
+categories:
+- Internet
+---
+
+El primer _reboot_ del día.
+
+
+
+
+ 

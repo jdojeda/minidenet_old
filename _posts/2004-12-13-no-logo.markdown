@@ -1,0 +1,56 @@
+---
+comments: false
+date: 2004-12-13 19:11:29
+layout: post
+slug: no-logo
+title: No Logo
+wordpress_id: 2154
+categories:
+- Internet
+---
+
+Escribo esto porque un gran amigo ha sufrido uno de esos robos que te dan rabia, de los que son descarados. Uno a veces se pone contento de que tomen trabajo tuyo y lo mejoren, como el caso del [calendario en PHP](http://www.minid.net/utilidades/web/calendario_online_en_php.php) que un día modifiqué y cité a los autores (los cuales encantados) y posteriormente otra persona lectora de minid.net lo cogió y modificó citándome a mi y a los desarrolladores iniciales. Me refiero sino a los que copian, pero no hablo de tomar ejemplos, **sino de copiar**, **calcar en todo sentido** y lo peor de todo es que, el que te copió **a ti te dice ladrón**.
+
+
+
+
+
+Poca vergüenza.
+
+
+
+
+
+[Arnau](http://css.artnau.com) es un tío que dibuja muy bien, sobre todo ilustra cada vez con más mano y [prueba de ello](http://css.artnau.com/fons-d-escriptori-linux-rebent-un-ping/) hizo [un fondo de escritorio](http://www.kde-look.org/content/show.php?content=14228) que publicó en [KDE-Look](http://www.kde-look.org/), el cual tuvo una buena acogida, tanto que la gente de [gulBAC](http://www.gulbac.com.ar) tomó prestado su illustración para montarse [la imagen de su sitio](http://www.gulbac.com.ar/Imagenes/gulBAC.jpg) (Para saciar tu sed de gulBAC preparamos un hermoso fondo de pantalla para que vayas poniendo en clima tu escritorio. Para bajarlo hacé click acá…). Todo esto **sin siquiera nombrarle**, ni citarle ni agradecerle. Además de que está permitido tomar algo, mejorarlo siempre y cuando cites fuentes, no tiene nada de malo eso.
+
+
+
+
+
+Lo que sí tiene de malo es que, en el mismo foro de KDE-Look le digan que **él les ha robado el logo a los de gulBAC**.
+
+
+
+
+    
+    <code>Robo!   fresh 
+    by Yaco  on: 12/12/2004, 21:38   Al menos me hubieras dado credito loco, 
+    me afanaste el logo!
+    [reply to this]</code>
+
+
+
+
+
+Yo espero que esto sea una confusión y no una agresión a conciencia. Que termine arreglado por las buenas, no tiene nada de gracia que esto pase justo en un ambiente open-source, colaboración y amistad por los lunixs, pero asco da tener que ver este tipo de actitudes.
+
+
+
+
+
+Parece que el tema se esclarece, más información en su post [Gent sense vergonya](http://css.artnau.com/gent-sense-vergonya/).
+
+
+
+
+ 

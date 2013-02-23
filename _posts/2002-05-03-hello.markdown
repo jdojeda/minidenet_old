@@ -1,0 +1,17 @@
+---
+comments: false
+date: 2002-05-03 09:01:03
+layout: post
+slug: hello
+title: Hello!
+wordpress_id: 355
+categories:
+- Internet
+---
+
+Bueno, ya estoy en Barcelona. Más tarde daré detalles de lo que está pasando aquí, es muy lindo y todo marcha viento en popa.
+
+
+
+
+ 

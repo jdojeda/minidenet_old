@@ -1,0 +1,21 @@
+---
+comments: false
+date: 2002-04-03 01:29:40
+layout: post
+slug: nhp-200nc
+title: NHP 200NC
+wordpress_id: 297
+categories:
+- Internet
+---
+
+A la hora de hacer modificaciones estas personas no se privan de nada. Como ustedes pueden apreciar… muchos tipos, hacen experimentos con sus computadoras, sobre todo a los cases (CPU, Carcaza, etc).  
+
+  
+
+Algunos las agujerean, otros ponen todo el case en un portafolio, o simplemente los llenan de cátodos y plexiglass de colores… bueno ellos hicieron todo al revés, le sacaron toda la parte metálica y rocearon todo con espuma… de eso sale la [NHP 200NC](http://www.g-news.ch/articles/nhp200nc/), algo digamos loco, niños _no intenten esto en casa_.
+
+
+
+
+ 

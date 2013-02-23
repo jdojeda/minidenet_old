@@ -1,0 +1,23 @@
+---
+comments: false
+date: 2002-08-29 07:07:44
+layout: post
+slug: winamp-3
+title: Winamp 3
+wordpress_id: 522
+categories:
+- Internet
+---
+
+La nueva versión de [Winamp 3](http://www.winamp.com) ya esta disponible, no es beta es final… funciona mucho mejor de lo que parece… otra de las cosas que me he enterado estos días es que se [ha cambiado la licencia  en el](http://barrapunto.com/article.pl?sid=02/08/28/0629219&mode=&threshold)= el formato MP3.
+
+
+
+
+
+Ahora no sólo los codificadores (encoders) tienen que pagar una cuota, sino también los decodificadores (decoders).
+
+
+
+
+ 

@@ -1,0 +1,17 @@
+---
+comments: false
+date: 2002-03-26 03:21:41
+layout: post
+slug: useitcom
+title: Useit.com
+wordpress_id: 285
+categories:
+- Internet
+---
+
+Para probar un poco esto de la separación del contenido de la presentación, hice un pequeño template que chupa los datos y la estampa en el template… sin tener que tocar 1 caracter de mi contenido… un poco de juego con stylesheets y limpiando mucha basura que Jakob Nielsen programó, aquí está [mini-useit](http://www.minid.net/useit.html), para los fanáticos de [useit.com](http://www.useit.com), bueno ahora pueden leer minid.net todos los días.
+
+
+
+
+ 

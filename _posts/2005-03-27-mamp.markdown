@@ -1,0 +1,17 @@
+---
+comments: false
+date: 2005-03-27 17:34:49
+layout: post
+slug: mamp
+title: MAMP
+wordpress_id: 2362
+categories:
+- Internet
+---
+
+Con sólo unos pocos clicks de ratón, puedes tener Apache, Mysql y PHP en un Mac gracias a la gente de [MAMP](http://www.mamp.info/en/home/) (**M**acintosh, **A**pache, **M**ysql y **P**HP).
+
+
+
+
+ 

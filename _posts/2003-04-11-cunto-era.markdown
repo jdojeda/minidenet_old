@@ -1,0 +1,54 @@
+---
+comments: false
+date: 2003-04-11 18:27:57
+layout: post
+slug: cunto-era
+title: Cuánto era…
+wordpress_id: 915
+categories:
+- Internet
+---
+
+Una de las cosas que estoy haciendo en mis ratos libres, es prepararme para ser DM, y con Israel y Tomedo estamos armandonos de cosillas para que las partidas sean lo más perfectas posibles.
+
+
+
+
+
+Una de las cosas importantes en un juego de rol son las medidas, las distancias de un personaje y un objeto. Para esto un DM tiene que proveer de buenas descripciones y una grilla de batalla.
+
+
+
+
+
+Esta grilla indica que cada cuadrado simboliza 3 pies cuadrados de espacio fisico, por ende en esa grilla entraría una sola [miniatura de plomo](http://uk.games-workshop.com/thelordoftherings/uk/twotowers/hobby/gaming/tactics/core2.htm) -se usan [para representar al personaje en el entorno](http://uk.games-workshop.com/thelordoftherings/uk/fellowship/catalog/free_peoples/haldir.htm)- y así poder hacer los cálculos necesarios.
+
+
+
+
+
+El tema es que Wizard Of The Coast la gente que hizo la tercera edición de D&D hizo todas las medidas de las tablas en pies, para todo, mi personaje corre 60 pies por asalto, por ejemplo.
+
+
+
+
+
+Esto al principio causó dolores de cabeza por que vivir pensando todo el día en metros, por eso hacemos la grilla de pies cuadrados, para poder hacer los cálculos de distancias y posiciones de objetos, personajes etc.
+
+
+
+
+
+Ahora el tema es hacer los cálculos, muchos probablemente no sepan cuanto es 10 pies de distancia y pasarlos a metros, bah, basto buscar un poco para encontrar esta tremenda página de cambios de medidas entre medidas. La [UnitCalc](http://www.minco.com/unitcalc/), tiene de todo lo que se nos pueda ocurrir… imperdible para los nerds.
+
+
+
+
+
+A mí me ha servido de mucho para hacer las conversiones rápidamente, ahora probablemente a vosotros les será de ayuda también.
+
+
+
+
+ 
+  *[D&D]: Dungeon & Dragons

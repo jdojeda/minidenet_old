@@ -1,0 +1,11 @@
+---
+comments: false
+date: 2003-07-16 18:13:25
+layout: post
+slug: mozilla-14
+title: Mozilla 1.4
+wordpress_id: 1056
+categories:
+- Internet
+---
+

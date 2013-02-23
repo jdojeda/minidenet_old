@@ -1,0 +1,41 @@
+---
+comments: false
+date: 2003-05-09 15:09:43
+layout: post
+slug: amo-linux
+title: Amo Linux
+wordpress_id: 960
+categories:
+- Internet
+---
+
+El otro dia fui a un cliente y tras una conversación sobre qué sistema de Base de Datos deberían usar para una aplicación les comente la posibilidad de usar MySQL y GNU/Linux, grande fue mi sorpresa cuando me comentaron que su jefa, **una señora de unos 50 años**, usaba linux y un programa de contabilidad corriendo sobre este.
+
+
+
+
+
+No dudé en ir a hablar con ella y comprobarlo con mis propios ojos, en su pantalla plana había un KDE corriendo sobre una SuSe.
+
+
+
+
+
+Me empezó a decir que le iba genial, que podía hacer todo lo que quería incluso me comentó que se puede olvidar de los problemas de virus… seguidamente me dice:
+
+
+
+
+
+> “es que yo AMO LINUX.”
+
+
+
+
+
+Salí del cliente más feliz que nunca :-)
+
+
+
+
+ 

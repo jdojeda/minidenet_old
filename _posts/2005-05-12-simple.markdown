@@ -1,0 +1,54 @@
+---
+comments: false
+date: 2005-05-12 05:10:00
+layout: post
+slug: simple
+title: Simple
+wordpress_id: 2414
+categories:
+- Internet
+---
+
+El día que empecé con [Mercadelia](http://www.mercadelia.com) tenía en mente una sola cosa: la simpleza. Luego, con el paso del tiempo, lo transmití con un post en donde explicaba que el primer objetivo era la simpleza de un servicio. La idea de contar sobre mercadelia con una idea llana: un sitio que sirve para esto y lo puedes hacer en una insignificante cantidad de tiempo.
+
+
+
+
+
+Luego me doy cuenta que mi forma de encarar cosas la observo reflejada en otros proyectos que enfocaron toda la ira en un problema: la complejidad de un servicio. Uno ve cientos de sitios, que ofrecen una herramienta en concreto, pero todas vienen sobrecargadas de unas funcionalidades que al fin y al cabo son prescindibles.
+
+
+
+
+
+Hace no más de una semana creo, salió un servicio para tener una bitácora llamado [La Coctelera](http://www.lacoctelera.com). Más allá de lo espectacular que puede presentar el código o la arquitectura con la que está montada, alegra la vista leer que más y más desarrolladores se focalizan en nosotros los consumidores, simplificando las tareas y dando otras posibilidades.
+
+
+
+
+
+Leer que han hecho un sitio que en pocos segundos y sin cosas raras se puede tener un weblog contenta. Pero no desmerezcamos al resto, porque ete aquí, también se podían montar un weblog registrándose con 1 formulario hace más de un año atrás.
+
+
+
+
+
+Igualmente, los métodos se van puliendo y a eso se van refiriendo estos sitios. Antes teníamos que llenar un formulario de 20 campos, configurar las plantillas para implementar datos básicos y resulta que ahora con llenar 10 campos ya tenemos lo mismo. Y lo mejor de todo es que está mejor integrado, más optimizado en lo que velocidad respecte y soportando los estándares en el nivel más considerado.
+
+
+
+
+
+Si miro en el 98, un sitio tenía que tener de todo menos la información más importante presentada de buena forma, accesible y a la vista. Si les recordara algo, uno entraba a webs de empresas y todas parecían el mega-portal de servicios. _Chat_, foros, tablón de anuncios, buscador en ciento buscadores, datos del tiempo, hora local / hora de servidor, _scrollers_ en Java, sonido, musiquita, notas para las mujeres, notas para los hombres, horóscopo, _e-shop_, imágenes _rollover_ por todos los rincones y eso sí, menos mal que no salió alguna otra tontería porque tendría que agregarla aquí. ¿Tanta porquería necesita un sitio? ¿No es más práctico ganarte al cliente por lo fácil que es usar tu producto? ¿Por lo bien cuidado que parece? ¿Por ofrecer buena calidad de contenido?
+
+
+
+
+
+Quiero empezar a ver cada día servicios como estos: simples y concretos. Austeros pero potentes en su tarea. Pensados para que los use sin tener que poner neuronas de más a trabajar. Para usar la herramienta y no para aprender a usarla.
+
+
+
+
+
+Mis felicitaciones a los chicos de la coctelera.

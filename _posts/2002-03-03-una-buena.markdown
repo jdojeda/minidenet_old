@@ -1,0 +1,17 @@
+---
+comments: false
+date: 2002-03-03 04:34:08
+layout: post
+slug: una-buena
+title: Una buena…
+wordpress_id: 244
+categories:
+- Internet
+---
+
+Hoy instalé Movable Type en mi máquina, con Mac OS X, con Apache, con Movable Type… me siento feliz… es inexplicable… vah algunos quizás me entiendan… ah por cierto… es la versión 1.4.
+
+
+
+
+ 

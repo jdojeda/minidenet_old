@@ -1,0 +1,50 @@
+---
+comments: false
+date: 2002-05-09 19:41:20
+layout: post
+slug: se-busca
+title: Se busca
+wordpress_id: 361
+categories:
+- Internet
+---
+
+Hace unos días que vengo buscando una persona, que quiera trabajar a mi lado, que sea un nerd de la programación, que le guste digamos el tema, que le interese instalar, configurar un servidor Apache, PHP, MySQL, y obvio programar en los entornos…  
+
+  
+
+Si vivis en Barcelona y te interesa trabajar de esto, un horario flexible y ganar unos buenos euros [contactate conmigo](mailto:minid@mac.com), estas cosas todos los días no aparecen en los weblogs.  
+
+  
+
+Técnicamente necesito un tío no me importa la edad preferiblemente de 18 años para arriba pero que le guste el PHP y MySQL como a mi me gusta diseñar, el perfil ideal para el puesto son conociemientos en:
+
+
+
+
+
+  
+
+
+  * PHP
+
+
+  * MySQL, Access, etc
+
+
+  * Apache, y algo de IIS, configuraciones de hosts, dominios, esas cosas
+
+
+  * Windows 2000 advanced server, y UNIX (aqui somos nerds también)
+
+
+  * y lo básico de cada trabajo web HTML, CSS, y un poco de picardía
+
+  
+
+Si te interesa la idea, y andas sin un duro, comunicate conmigo, sino no :).
+
+
+
+
+ 

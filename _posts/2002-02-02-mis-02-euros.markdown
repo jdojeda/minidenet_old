@@ -1,0 +1,47 @@
+---
+comments: false
+date: 2002-02-02 13:32:54
+layout: post
+slug: mis-02-euros
+title: Mis 0,2 euros
+wordpress_id: 216
+categories:
+- Internet
+---
+
+Lamentablemente muchas personas [ya se estan hartando](http://www.jjg.net/ia/recon/) de definir el término arquitectuta de la información… pero más vale lo que unos hacen que lo que se la pasan escribiendo. Todo el tiempo desperdiciado en definir términos tán simples de que  IA es esto, pero no que es aquello.
+
+
+
+
+
+Lamenteblemente hasta mi conocimiento sólo en la Universidad de Yale se otorga un IA Degree certificado y es una carrera no un post-grado. Así que la virtud de ser un IA por ahora pasa por la dedicación, y las ganas de trabajar de esto.
+
+
+
+
+
+Me parece **perfecto** discutir [técnicas](http://www.minid.net/archives/200202.php#a000226), nuevos logros y descubrimientos. Me encanta la idea de que se imponga un estándard, pero si ése se puede mejorar para bien **hazlo**.
+
+
+
+
+
+Yo [todavía no me cansé](http://www.dithered.com/archives/200201.html#29_3) de esta novela de definición, el tema es que no le presto atención, como ustedes pueden apreciar yo escribo muchas notas sobre todos estos temas, para que todos estemos introducidos al tema y no perdamos la costumbre y aprendamos todos los días algo más.
+
+
+
+
+
+Coincido en gran parte con [Tremendo](http://tremendo.com/bitacora/archivo/?2002-02-01) también, hay que desarrollar más y enseñar a todos tus experiencias de ese desarrollo, los puntos a favor y los en contra.
+
+
+
+
+
+Bueno ahora si… les doy mi definición de IA.
+
+
+
+
+ 
