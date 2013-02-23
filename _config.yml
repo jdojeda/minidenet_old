@@ -1,7 +1,7 @@
 auto: false
 server: false
-lsi: true
-pygments: true
+lsi: false
+pygments: false
 markdown: rdiscount
 pygments: true
 permalink: /:year/:month/:day/:title
