@@ -1,0 +1,322 @@
+// custom styles for minid.net
+
+@blockmargin: (@grid-column-width + @grid-gutter-width);
+@headings-margin: (@line-height-base * 2);
+
+// logotipo
+
+code {
+  color: @grayDark;
+  background: none;
+}
+
+.container {
+  div {
+    //background: rgba(0,0,0,0.1);
+  }
+}
+
+.navbar {
+  ul li {
+    a {
+      font-family: "AlternateGothicFSNo1";
+      text-transform: uppercase;
+      font-size: 18px;
+      strong {
+        font-weight: normal;
+        color: @grayDarker;
+      }
+    }
+  }
+}
+
+.lema {
+  text-align: center;
+}
+
+.logo0{fill:#fff;fill-opacity:0.1;}
+.logo1{fill:#999;}
+.logo2{fill:#fff;}
+.logo3{fill:#666;}
+.logo4{fill:#222;}
+
+// the minid avatar
+
+.camiseta{fill:#666;}
+.piel{fill:#eee;}
+.pera{fill:#ccc;}
+.st3{fill:url(#SVGID_1_);}
+.st4{opacity:0.1;}
+.st5{fill:#FFFFFF;}
+.chaqueta{fill:#a9a9a9;}
+
+
+.navbar{  
+  #gradient > .vertical(#fff, rgba(255,255,255,0));
+}
+
+
+h1 {
+  font-family: "AlternateGothicFSNo1";
+  font-size: 96px;
+  line-height: 96px;
+  color: @grayDark;
+  text-shadow: rgba(0,0,0,0.1) 3px 3px 0;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 40px 0 60px 0;
+  span {
+    display: block;
+    font-size: 300px;
+    letter-spacing: -5px;
+    line-height: 260px;
+  }
+  .s1 {
+    font-size: 250px;    
+    line-height: 200px;
+    
+  }
+}
+
+.brand {
+  padding-top: 10px !important;
+  padding-bottom: 0 !important;
+  svg {
+    display: block;
+    height: 40px;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+article {
+  margin-bottom: 60px;
+  a {
+    text-decoration: underline;
+  }
+  p {
+    strong {
+      color: @grayDark;
+    }
+  }
+  h3, h4, h5 {
+    color: @grayDarker;
+    margin-top: @headings-margin;
+    font-family: "AlternateGothicFSNo1";
+    font-weight: normal !important;
+  }
+  h3 {
+    font-size: @font-size-header;
+    font-weight: bold;
+  }
+}
+
+blockquote {
+    font-family: "AlternateGothicFSNo1";
+    margin: @line-height-base -@blockmargin @line-height-base -@blockmargin;
+    border: 0;
+    padding: 0;
+    p {
+      font-size: @line-height-base;
+      line-height: 32px;
+      color: @grayDark;
+      strong, cite, em {
+       font-weight: normal;
+       font-style: normal;
+       color: @gray;
+       }
+     }
+  }
+
+.draw, .photo {
+  width: 767px;
+  margin: @headings-margin 0 @headings-margin -107px;
+  img {
+    border-radius: 5px;
+    width: 767px;
+  }
+  figcaption {
+    font-size: 10px;
+    text-transform: uppercase;
+    text-align: center;
+  }
+}
+
+.photo {
+  img {
+    -webkit-filter: grayscale(1);
+  }
+}
+
+.colofon {
+    text-align: center;
+    font-size: @font-size-small;
+    color: @grayLight;
+    margin-top: @headings-margin;
+  }
+
+.share {
+  margin: 0 auto;
+  text-align: center;
+  li {
+    display: inline-block;
+    a {
+      display: block;
+      .size(36px, 36px);
+      svg {
+        fill: @gray;
+      }
+      &:visited {
+       svg {
+        fill: @grayDarker;
+       } 
+      }
+      &:hover {
+        .animated;
+        .bounceIn;
+        svg {
+          margin: -12px 0 -8px -12px;
+          fill: @grayDarker;
+          .size(60px,60px);
+        }
+      }
+    }
+  }
+}
+
+hr {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+  background: #f1f1f1;
+  padding: 30px 0;
+  text-align: center;
+  nav {
+    font-family: "AlternateGothicFSNo1";
+    text-transform: uppercase;
+    p {
+      font-size: @font-size-big;
+    }
+    a {
+     color: @grayLight;
+     padding: 0 2.5px;
+     &:hover {
+      text-decoration: none;
+      color: @gray;
+     }
+    }
+  }
+  p {
+      font-size: @font-size-mini;
+      color: @grayLight;
+  }
+}
+
+#minid {
+  border-radius: 512px;
+  margin-top: 5px;
+  margin: 10px auto;
+  display: block;
+}
+
+.autor {
+  p {
+    text-align: center;
+  }
+}
+
+.pager {
+  margin: 100px 0;
+  li > a, li > span {
+    border: 0;
+  }
+  a {
+    font: 18px "AlternateGothicFSNo1";
+    text-transform: uppercase;
+
+  }
+}
+
+pre {
+  margin: @line-height-base -197px;
+  line-height: @line-height-base / 1.25;
+  font-size: @font-size-small;
+  border: 0;
+}
+
+
+
+// video
+
+.video {
+  width: 767px;
+  margin: @headings-margin 0 @headings-margin -107px;
+  padding: 25px 0 20px 0;
+  background: #000;
+  border-radius: 5px;
+}
+
+.youtube {
+  #gradient > .vertical(#000, #1b1b1b);
+}
+
+.list {
+  list-style: none;
+  li {
+    text-align: center;
+    text-transform: uppercase;
+    a {
+      font-family: "AlternateGothicFSNo1";
+      font-size: 24px;
+      display: block;
+    }
+    time {
+      font-size: 12px;
+      margin-bottom: @line-height-base;
+      display: block;
+    }
+  }
+}
+
+
+.archives {
+  -moz-column-width: 120px;
+  -webkit-column-width: 120px;
+  -moz-column-gap: @grid-gutter-width;
+  -webkit-column-gap: @grid-gutter-width;
+  padding: 30px 0 0 0;
+  ul {
+    font-size: @font-size-mini;
+    text-transform: uppercase;
+    list-style: none;
+  }
+}
+
+// Large desktop
+@media (min-width: 1200px) { 
+  @import "../_assets/stylesheets/vendor/less/responsive-1200.less";
+ }
+ 
+// Portrait tablet to landscape and desktop
+@media (min-width: 768px) and (max-width: 979px) and (orientation: portrait) {
+  @import "../_assets/stylesheets/vendor/less/responsive-768-979.less";
+}
+
+
+// Landscape phone to portrait tablet
+@media (min-width: 800px) and (max-width: 1024px) and (orientation: landscape) {
+  @import "../_assets/stylesheets/vendor/less/responsive-800-1024.less";
+}
+
+// Landscape phones and down
+@media (min-width: 480px) and (max-width: 800px) { 
+  @import "../_assets/stylesheets/vendor/less/responsive-480-800.less";
+}
+ 
+// Landscape phones and down
+@media (min-width: 320px) and (max-width: 480px) { 
+  @import "../_assets/stylesheets/vendor/less/responsive-480.less";
+}

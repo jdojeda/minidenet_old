@@ -1,0 +1,66 @@
+// for iphones
+@mediawidth: 100%;
+@mediamargin: 0;
+
+.container {
+  margin: 0 20px;
+}
+
+blockquote {
+  margin: 0 0 20px 0;
+}
+
+pre {
+  margin: @line-height-base -10px;
+  overflow: auto;
+}
+
+.medium {
+  display: none;
+  }
+
+  h1 {
+    font-size: 70px;
+    line-height: 70px;
+    span {
+      font-size: 120px;
+      letter-spacing: -1px;
+      line-height: inherit;
+    }
+    .s1 {
+      font-size: 150px;    
+      line-height: 100px;
+    }
+  }
+  // video en ipad portrait
+  .video {
+    background: #000;
+    margin-left: @mediamargin;
+    width: @mediawidth;
+    iframe {
+      width: @mediawidth;
+    }
+  }
+
+.draw, .photo {
+  width: @mediawidth;
+  margin: @headings-margin 0 @headings-margin @mediamargin;
+  img {
+    border-radius: 5px;
+    width: @mediawidth;
+  }
+  figcaption {
+    font-size: 10px;
+    text-transform: uppercase;
+    text-align: center;
+  }
+}
+
+#minid {
+  margin: 0 auto 20px auto;
+  display: block;
+}
+
+.autor {
+  text-align: center; 
+}

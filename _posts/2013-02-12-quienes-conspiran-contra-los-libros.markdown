@@ -5,9 +5,6 @@ layout: post
 slug: quienes-conspiran-contra-los-libros
 title: Quiénes <span>conspiran</span> contra los libros
 wordpress_id: 4109
-excerpt: An unplanned bivouac on Ben Nevis.
-categories:
-
 ---
 
 No hay nada que me motive más a escribir que responder artículos publicados con argumentos o, mejor aun, teorías de conspiración totalmente sumidas en el estado paranoico sobre cualquier tema. Da la casualidad llevo un tiempo escribiendo sobre dos temas básicos de esta transición que estamos viviendo: [el drama de los intermediarios](http://www.minid.net/2013/01/23/el-famoso-drama-de-los-intermediarios/) y [la inevitable muerte de los libros de papel](http://www.minid.net/2013/02/07/el-inevitable-fin-de-los-libros-en-papel/). Dos temas sensibles y unidos de la mano. Y por otro lado, me asombra que en el periódico sólo den voz a aquellos que realmente no demuestran objetividad a la hora de hablar. Simplemente utilizan al periódico como abanico para su discurso anticuado sobre las virtudes del libro, la industria que lo mueve y los peligros que se avecinan si «alguien» no toma acción.

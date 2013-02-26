@@ -1,0 +1,45 @@
+// 768-979
+@mediawidth: 747px;
+@mediamargin: -197px;
+
+.medium {
+  display: none;
+  }
+  h1 {
+    span {
+      font-size: 200px;
+      letter-spacing: -5px;
+      line-height: 200px;
+    }
+    .s1 {
+      font-size: 200px;    
+      line-height: 160px;
+    }
+  }
+  // video en ipad portrait
+  .video {
+    background: #000;
+    margin-left: @mediamargin;
+    width: @mediawidth;
+    iframe {
+      width: @mediawidth;
+    }
+  }
+
+.draw, .photo {
+  width: @mediawidth;
+  margin: @headings-margin 0 @headings-margin @mediamargin;
+  img {
+    border-radius: 5px;
+    width: @mediawidth;
+  }
+  figcaption {
+    font-size: 10px;
+    text-transform: uppercase;
+    text-align: center;
+  }
+}
+
+#minid {
+  margin-left: -20px;
+}

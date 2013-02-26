@@ -5,8 +5,6 @@ layout: post
 slug: el-inevitable-fin-de-los-libros-en-papel
 title: El inevitable fin de <span>los libros en papel</span>
 wordpress_id: 4096
-categories:
-- Libros
 ---
 
 La semana pasada en mi línea de Twitter apareció un artículo llamado [_Por qué los libros en papel nunca morirán_](http://www.comunicacion-cultural.com/2013/01/23/por-que-los-libros-en-papel-nunca-moriran/) de Javier Celaya. Daba la casualidad que yo había escrito una entrada sobre [los intermediarios tradicionales](http://www.minid.net/2013/01/23/el-famoso-drama-de-los-intermediarios/), su negocio y la extinción de algunos medios y tecnologías. No pude aguantar mi curiosidad y mientras caminaba por la calle leí el artículo como buen paisano geek que soy.

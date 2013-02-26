@@ -13,9 +13,9 @@ Entonces tú querías aprender SVG y has llegado a este artículo. **Pues éste 
 
 
 
-
-![ilustración equipamiento de Boca Juniors 2012](/images/camiseta-boca.svg)
-
+<figure class="draw">
+![ilustración equipamiento de Boca Juniors 2012]({% asset_path camiseta-boca.svg %})
+</figure>
 
 
 
@@ -120,10 +120,10 @@ En 11 años, SVG creció sin parar, tanto en adopción de navegadores, como adop
 
 
 
-    
-    <code>&lt;?xml version="1.0" encoding="utf-8"?&gt;
-    &lt;!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"&gt;
-    &lt;svg 
+{% highlight html %}
+    <?xml version="1.0" encoding="utf-8"?>
+    <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+    <svg 
       version="1.1" 
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -131,10 +131,10 @@ En 11 años, SVG creció sin parar, tanto en adopción de navegadores, como adop
       y="0px"
       width="500px"
       height="500px"
-      xml:space="preserve"&gt;
-      &lt;polygon points="30,100 30,468 473,468 473,218 302,30 "/&gt;
-    &lt;/svg&gt;</code>
-
+      xml:space="preserve">
+      <polygon points="30,100 30,468 473,468 473,218 302,30 "/>
+    </svg>
+{% endhighlight %}
 
 
 
@@ -143,9 +143,9 @@ Y con eso ya hemos creado **un primer documento SVG** con una figura primitiva n
 
 
 
-
-![Pentágono generado con SVG](/images/tutorial/svg/test.svg)
-
+<figure class="draw">
+![Pentágono generado con SVG]({% asset_path test.svg %})
+</figure>
 
 
 
@@ -153,9 +153,9 @@ Podrán observar que el elemento `svg` tiene un montón de atributos uno debajo 
 
 
 
-
-![Anatomía de SVG](/images/tutorial/svg/svg-anatomia.svg)
-
+<figure class="draw">
+![Anatomía de SVG]({% asset_path svg-anatomia.svg %})
+</figure>
 
 
 
@@ -165,7 +165,7 @@ Como pueden observar, cada punto está definido por una serie de códigos numér
 
 
 
-`300.298,300.889`
+    `300.298,300.889`
 
 
 

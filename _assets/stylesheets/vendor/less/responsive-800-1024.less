@@ -1,0 +1,42 @@
+@mediawidth: 767px;
+@mediamargin: -150.5px;
+
+
+// 768-979
+
+h1 {
+ span {
+  font-size: 230px;
+  letter-spacing: -5px;
+  line-height: 200px;
+  }
+ .s1 {
+  font-size: 200px;    
+  line-height: 160px;
+  }
+}
+
+// video en ipad portrait
+
+.video {
+    background: #000;
+    margin-left: @mediamargin;
+    width: @mediawidth;
+    iframe {
+      width: 767px;
+    }
+  }
+
+  .draw, .photo {
+  width: @mediawidth;
+  margin: @headings-margin 0 @headings-margin @mediamargin;
+  img {
+    border-radius: 5px;
+    width: @mediawidth;
+  }
+  figcaption {
+    font-size: 10px;
+    text-transform: uppercase;
+    text-align: center;
+  }
+}
