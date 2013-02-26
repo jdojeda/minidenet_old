@@ -8,7 +8,7 @@ excerpt: Conoce Jekyll, cómo funciona y sus ventajas
 
 Lo primero que tenemos que saber es que **Jekyll no es un sistema de blogs.** Simplemente es un *parser* (analizador, en inglés) que está hecho con el lenguaje de programación Ruby. Fue creado por [Tom Preston-Werner][tom], uno de los cofundadores de [Github][git] y de esto hace ya unos 4 años. Como han leído bien: esta forma de bloguear no es nueva, pero aunque al principio no fuera ultra popular, con el tiempo se ha vuelto una de las mejores opciones para quienes tienen algo de conocimiento de desarrollo.
 
-Jekyll funciona así: lo instalas en tu máquina, y creas una estructura de carpetas y archivos en donde te plazca donde podrás poner tus plantillas y tus posts. Una instalación típica de Jekyll tiene este aspecto:
+Jekyll funciona así: lo instalas en tu máquina. Creas una estructura de carpetas y archivos en donde te plazca donde podrás poner tus plantillas y tus posts. Una instalación típica de Jekyll tiene este aspecto:
 
 {% highlight bash %}
   /_posts/

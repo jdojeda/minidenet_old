@@ -71,10 +71,10 @@
   <div class="span12">
     <ul class="pager">
       {% if page.previous.url %} 
-      <li class="previous"><a href="{{page.previous.url}}" rel="tooltip" title="Entrada anterior: {{page.previous.title | strip_html }}">☜ {{page.previous.title}}</a></li>
+      <li class="previous"><a href="{{page.previous.url}}" title="Entrada anterior: {{page.previous.title | strip_html }}">☜ {{page.previous.title}}</a></li>
       {% endif %}
       {% if page.next.url %} 
-      <li class="next"><a href="{{page.next.url}}" rel="tooltip" title="Siguiente entrada: {{page.next.title |  strip_html}}">{{page.next.title}} ☞</a></li>
+      <li class="next"><a href="{{page.next.url}}" title="Siguiente entrada: {{page.next.title |  strip_html}}">{{page.next.title}} ☞</a></li>
       {% endif %}      
       </ul>
     </div>
