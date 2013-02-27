@@ -8,7 +8,7 @@ excerpt: Conoce Jekyll, cómo funciona y sus ventajas
 
 Lo primero que tenemos que saber es que **Jekyll no es un sistema de blogs.** Simplemente es un *parser* (analizador, en inglés) que está hecho con el lenguaje de programación Ruby. Fue creado por [Tom Preston-Werner][tom], uno de los cofundadores de [Github][git] y de esto hace ya unos 4 años. Como han leído bien: esta forma de bloguear no es nueva, pero aunque al principio no fuera ultra popular, con el tiempo se ha vuelto una de las mejores opciones para quienes tienen algo de conocimiento de desarrollo.
 
-Jekyll funciona así: lo instalas en tu máquina. Creas una estructura de carpetas y archivos en donde te plazca donde podrás poner tus plantillas y tus posts. Una instalación típica de Jekyll tiene este aspecto:
+Jekyll funciona así: lo instalas en tu máquina. Creas una estructura de carpetas, archivos en donde te plazca donde podrás poner tus plantillas y tus posts. Una instalación típica de Jekyll tiene este aspecto:
 
 {% highlight bash %}
   /_posts/
@@ -46,7 +46,7 @@ ejecución de tu proyecto en Jekyll. Abres una terminal y escribes:
   jekyll --server
 {% endhighlight %}
 
-Si todo ha estado bien instalado, observarás que Jekyll genera todo y te da una url donde ver tu sitio generado, en mi caso es http://0.0.0.0:4000 y eso es todo. Escribes posts, los tiras ahí y vuelves a levantar el servidor. Jekyll analiza y convierte todo con toda la información que le pidas.
+Si todo ha estado bien instalado, observarás que Jekyll genera todo y te da una <abbr title="Uniform Resource Locator" title="en">URL</abbr> donde ver tu sitio generado, en mi caso es http://0.0.0.0:4000 y eso es todo. Escribes posts, los tiras ahí y vuelves a levantar el servidor. Jekyll analiza y convierte todo con toda la información que le pidas.
 
 ### Estático vs Dinámico
 
@@ -64,7 +64,7 @@ Experimentar. Probar cosas nuevas. Realmente no ha cambiado demasiado mi forma d
 
 Los CMS con el tiempo devienen en bestias indomables. Wordpress requiere bastante toqueteo para estar a la altura de lo que uno quiere hacer. A veces uno tiene que hackear el `loop` que trae, a veces uno tiene que programarse en PHP porque como está todo hecho a veces no cumple las necesidades que uno quiere. Ni siquiera quiero hablar de Drupal, hay que ser un loco suicida para tener un blog con Drupal, requiere tocar de todo y es sólo para los masoquistas. Todo y eso, los CMS han satisfecho las fantasías más húmedas de los desarolladores y editores de sitios que a tal punto, muchos de estos CMS dejaron de ser sólo una herramienta de blogs. Así que decidí hace tiempo volver a lo estático, a lo simple y lo rápido.
 
-Sin señalar a ninguno en especial, los CMS son una montaña de oro detrás de una puerta de papel: viven asediados de hackers. Hay que actualizar el blog permanente para todo. Si te olvidas de actualizarlo, corres peligro de que tomen el servidor, que te usen el servidor como servidor de correo electrónico o bien te llenen las 4000 entradas del blog que tengas con enlaces de viagra. Esto no lo sufro más. Mi servidor sólo es un servidor NGinx. No hay MySQL instalado, no hay PHP, no hay Ruby. Nada. Todos los problemas de seguridad quedan relegados a actualizar Linux con el último parche y las cosas que uso. Todo lo genero en mis ordenadores en local.
+Sin señalar a ninguno en especial, los CMS son una montaña de oro detrás de una puerta de papel: viven asediados de hackers. Hay que actualizar el blog permanente para todo. Si te olvidas de actualizarlo, corres peligro de que tomen el servidor, que te usen el servidor como servidor de correo electrónico o bien te llenen las 4000 entradas del blog que tengas con enlaces de viagra. Esto no lo sufro más. Mi servidor sólo es un servidor Nginx. No hay MySQL instalado, no hay PHP, no hay Ruby. Nada. Todos los problemas de seguridad quedan relegados a actualizar Linux con el último parche y las cosas que uso. Todo lo genero en mis ordenadores en local.
 
 ### Futuro
 
