@@ -1,6 +1,5 @@
 auto: false
 server: false
-#future: false
 lsi: false
 pygments: true
 markdown: rdiscount

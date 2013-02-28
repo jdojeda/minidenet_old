@@ -1,21 +1,10 @@
 <a href="https://plus.google.com/107159313684622289512?rel=author" style="display:none;">+</a>
-<script type="text/javascript">
-  // google analytics
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-69899-1']);
-  _gaq.push(['_trackPageview']);
-  // deferred js
-  function downloadJSAtOnload() {
-    var jsFiles = ["/js/vendor/jquery-1.9.1.min.js", "/js/bootstrap.min.js", "/assets/ga.js"];
-    for (var i = 0; i < jsFiles.length; i++) {
-      var element = document.createElement("script");
-      element.src = jsFiles[i];
-      document.body.appendChild(element);
-    }
-  }
-  if (window.addEventListener)
-  window.addEventListener("load", downloadJSAtOnload, false);
-  else if (window.attachEvent)
-  window.attachEvent("onload", downloadJSAtOnload);
-  else window.onload = downloadJSAtOnload;
+<script>
+(function () {
+  document.body.className = document.body.className + " minid-loading";
+    var e = document.createElement('script');
+    e.src = '{% asset_path minid %}';
+    e.async = true;
+    document.body.appendChild(e);
+}());
 </script>
