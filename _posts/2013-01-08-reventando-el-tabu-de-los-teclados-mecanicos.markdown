@@ -1,12 +1,8 @@
 ---
-comments: false
 date: 2013-01-08 11:35:54
 layout: post
 slug: reventando-el-tabu-de-los-teclados-mecanicos
-title: Reventando el tabú de los teclados mecánicos
-wordpress_id: 4041
-categories:
-- Diseño
+title: Reventando el tabú de los <span class="s1">teclados mecánicos</span>
 ---
 
 Muchos personajes importantes del mundo tecnológico usan exclusivamente teclados mecánicos y hasta un día encontré que un compañero de piso con el que vivía usaba uno para estudiar y programar. Me pregunté: _¿por qué tal obsesión?_ mientras le miraba con pena cuando escribía en su teclado del tamaño de tres teclados de mac apilados.
@@ -68,7 +64,7 @@ Los teclados mecánicos en cambio están hechos con más de una pieza que compon
 
 
 
-![Interruptor Cherry MX](/images/switch-cherrymx.svg)
+![Interruptor Cherry MX]({% asset_path switch-cherrymx.svg %})
 
 
 
