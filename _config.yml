@@ -22,3 +22,8 @@ assets:
     js:   uglifier
     css:  yui
   cachebust: hard
+
+
+name: Minid.net
+description: blog de tecnología, diseño, ciencia y opinión. Escrito por Diego Lafuente, desde 2001.
+url: http://minid.net
