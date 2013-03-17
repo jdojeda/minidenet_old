@@ -24,5 +24,3 @@ cd $OLDPWD
 uglifyjs public/assets/webfont.js -o public/assets/webfont.js
 
 rsync -rtzh --progress --delete public/ --rsh='ssh -p7077' dlafuente@198.211.124.43:/srv/www/minid.net/public/
-
-
