@@ -1,0 +1,29 @@
+---
+comments: false
+date: 2003-03-26 13:50:25
+layout: post
+slug: safari-v67
+title: Safari v67
+wordpress_id: 890
+categories:
+- Internet
+---
+
+La beta del Safari v67 está dando vuelta estos días por Internet como el spam “Enlarge your pennis”. Curiosamente sigo viendo que los atributos `alt=""` y `title=""` siguen sin respetarse… aparecen en la barra inferior…
+
+
+
+
+
+Ahora esta versión viene con un curioso botoncillo de “Autofill” que haciendo click sobre éste te llena el formulario con tus datos, mejor dicho, recuerda lo que una vez has llenado en este formulario.
+
+
+
+
+
+Muy útil para los formularios de los comentarios en los weblogs :)… como en éste que todavía no funciona el recordar… ;)
+
+
+
+
+ 

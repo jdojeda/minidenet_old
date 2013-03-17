@@ -1,0 +1,29 @@
+---
+comments: false
+date: 2003-09-30 14:25:57
+layout: post
+slug: mozphp
+title: MozPHP
+wordpress_id: 1208
+categories:
+- Internet
+---
+
+[MozPHP](http://www.thomas-schilz.de/MozPHP/) es una integración de paquetes PHP en Mozilla.  Con [MozPHP](http://www.thomas-schilz.de/MozPHP/), uno puede ejecutar scripts de PHP directamente en el navegador, sin necesidad de tener un servidor HTTP.
+
+
+
+
+
+> MozPHP may for example be useful for you if you want to create an application which is available online on the Web as well as on some offline distribution media like CD-ROM or DVD.
+
+
+
+
+
+También están como proyecto en Mozdev en la dirección [http://mozphp.mozdev.org](http://mozphp.mozdev.org).
+
+
+
+
+ 

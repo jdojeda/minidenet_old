@@ -1,0 +1,18 @@
+---
+comments: false
+date: 2005-10-07 15:09:55
+layout: post
+slug: web-20
+title: Web 2.0
+wordpress_id: 2593
+categories:
+- Internet
+---
+
+No voy a hablar de Web 2.0. Sino que voy a hacer referencia a quienes se van a dedicar a ello. Para estas cosas, para el que le interesa el tema de nuevos lanzamientos, Walter está escribiendo un _weblog_ llamado [doscero](http://www.doscero.com).
+
+
+
+
+
+Una cosa que me ha gustado es la forma que Walter usa para representar los comentarios en cada post. Una buena idea.

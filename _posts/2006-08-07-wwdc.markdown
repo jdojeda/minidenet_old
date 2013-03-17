@@ -1,0 +1,18 @@
+---
+comments: false
+date: 2006-08-07 08:31:36
+layout: post
+slug: wwdc
+title: WWDC
+wordpress_id: 2913
+categories:
+- Internet
+---
+
+Hoy Apple mostrará las mejoras del nuevo sistema operativo OS X. Calculo que será a eso de las 6 de la tarde, hora Española. Como siempre habrá que esperar horas, largas horas, para tener el webcast de la misma. Normalmente se deja ver el webcast a las 10 horas de hecho el evento.  Así que, a partir de ahí, luego de mirar 2, 3, 4 veces el vídeo y hacer anotaciones pertinentes, escribiré algo con forma aquí.
+
+
+
+
+
+Hay mucha curiosidad y emoción entre la gente por lo que se mostrará. Yo desde que tengo un iMac con Intel no paro de soñar con instalarme el nuevo Leopard, que dicen que va un 200% más rápido.

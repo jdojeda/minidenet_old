@@ -1,0 +1,23 @@
+---
+comments: false
+date: 2002-10-01 08:58:17
+layout: post
+slug: red-hat-80
+title: Red Hat 8.0
+wordpress_id: 580
+categories:
+- Internet
+---
+
+Al parecer [Red Hat 8.0](http://osnews.com/story.php?news_id=1842&page=1) va a ser una muy buena opción para los diseñadores, en este review, nos cuenta entre otras cosas cómo se pueden usar fonts True Type (si las de windows señores) con sólo tirarlas a un directorio ~/.fonts y automáticamente el sistema las administra y las ordena.
+
+
+
+
+
+Bueno eso solo no es. Imagino que debe haber más gente enterada de la verdadera potencia del nuevo [Red Hat 8.0](http://osnews.com/story.php?news_id=1842&page=1).
+
+
+
+
+ 

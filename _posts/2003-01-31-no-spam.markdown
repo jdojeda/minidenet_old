@@ -1,0 +1,59 @@
+---
+comments: false
+date: 2003-01-31 21:16:37
+layout: post
+slug: no-spam
+title: No SPAM
+wordpress_id: 817
+categories:
+- Internet
+---
+
+Creo que, en Europa y todo el mundo debería existir una ley seria contra el SPAM, para los que no saben lo que es el SPAM, seguramente deben tener unos cuantos e-mails en sus casillas de correo, de los cuales ustedes no tienen ni puta idea quien les envia ese mail, como lo dije, bueno eso es un SPAM un correo no deseado.
+
+
+
+
+
+Incluso, nunca han solicitado que se les envíe uno, o los 200 que me llegan diariamente.
+
+
+
+
+
+El tema SPAM en mi vida es serio, como no utilizo Microsoft Outlook, ni Microsoft Office, no puedo filtrar con un cliente de correo muchos SPAMs, si parece estúpido pero no puedo, las opciones de los clientes fuera de Outlook o Eudora pasan a ser totalmente nulas, e inservibles.
+
+
+
+
+
+Pero dentro de poco volveré a usar mi Macintosh el cual posee un buen programa de mail, con filtros pre-configurables, en PC ahora uso un programa llamado The Bat! el cual los filtros no son del todo buenos, o al menos nunca pude descubrir cómo diablos configurar The Bat! como se configuran el Eudora o el Outlook.
+
+
+
+
+
+Lo de la ley está claro, quien envía SPAM, multa, pero esto es un arma de doble filo, no me quiero imaginar que yo sin querer envío un e-mail a alguien el cual me denuncia y mi mail se malinterpreta como SPAM.
+
+
+
+
+
+Pero sí, estoy cansado de configurar 100 tipos de reglas para evitar leer SPAM, cada correo no deseado es un mar de keywords y realmente apesta tener que perder todos los días un rato para armar una buena regla en el Outlook para que filtre SPAM.
+
+
+
+
+
+Tengo conocimiento de que existen Add-ons para Outlook, y Eudora, pero realmente no soy amigo de esos clientes de correo.
+
+
+
+
+
+Ahora mi pregunta se remite a: ¿Existe un buen cliente de correo que no sea Eudora o Outlook?
+
+
+
+
+ 

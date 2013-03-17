@@ -1,0 +1,23 @@
+---
+comments: false
+date: 2004-04-15 17:27:14
+layout: post
+slug: 65k
+title: 65k
+wordpress_id: 1654
+categories:
+- Internet
+---
+
+> ([This website](http://www.cadinteriors.com/) is best seen in at least hi-color depth (65K+ colors), and in a browser window of at least 640&#215;480.)
+
+
+
+
+
+_¡Ouch!_
+
+
+
+
+ 

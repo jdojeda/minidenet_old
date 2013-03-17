@@ -1,0 +1,12 @@
+---
+comments: false
+date: 2005-12-13 14:46:22
+layout: post
+slug: irrita-web-20
+title: ¿Irrita Web 2.0?
+wordpress_id: 2689
+categories:
+- Internet
+---
+
+A menudo me cruzo en varios comentarios una irritación, una urticaria ligada directamente con el término Web 2.0. Pregunto, _¿qué es lo que les molesta?_

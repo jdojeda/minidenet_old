@@ -1,0 +1,23 @@
+---
+comments: false
+date: 2002-08-08 13:34:56
+layout: post
+slug: comment-nmero-1000
+title: Comment número 1000
+wordpress_id: 496
+categories:
+- Internet
+---
+
+Lo acaba de escribir [arrozabanda](http://www.arrozabanda.net).
+
+
+
+
+
+Felicidades.
+
+
+
+
+ 

@@ -1,0 +1,17 @@
+---
+comments: false
+date: 2002-07-18 09:12:34
+layout: post
+slug: nueva-imac-17
+title: Nueva iMac 17&quot;
+wordpress_id: 467
+categories:
+- Diseño
+---
+
+Ahora la nueva iMac G4, con la potencia de siempre pero [con monitor de 17 pulgadas](http://www.apple.com/imac/), ideal para compañías web.
+
+
+
+
+ 

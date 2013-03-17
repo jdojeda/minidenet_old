@@ -46,7 +46,7 @@ ejecución de tu proyecto en Jekyll. Abres una terminal y escribes:
   jekyll --server
 {% endhighlight %}
 
-Si todo ha estado bien instalado, observarás que Jekyll genera todo y te da una <abbr title="Uniform Resource Locator" title="en">URL</abbr> donde ver tu sitio generado, en mi caso es http://0.0.0.0:4000 y eso es todo. Escribes posts, los tiras ahí y vuelves a levantar el servidor. Jekyll analiza y convierte todo con toda la información que le pidas.
+Si todo ha estado bien instalado, observarás que Jekyll genera todo y te da una <abbr title="Uniform Resource Locator" lang="en">URL</abbr> donde ver tu sitio generado, en mi caso es http://0.0.0.0:4000 y eso es todo. Escribes posts, los tiras ahí y vuelves a levantar el servidor. Jekyll analiza y convierte todo con toda la información que le pidas.
 
 ### Estático vs Dinámico
 

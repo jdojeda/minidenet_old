@@ -1,0 +1,35 @@
+---
+comments: false
+date: 2005-03-16 09:54:25
+layout: post
+slug: google-x
+title: Google X
+wordpress_id: 2346
+categories:
+- Internet
+---
+
+Alguien de Google le gustó tanto el Mac OS X que [lo terminó implementando en el buscador](http://labs.google.com/googlex/).
+
+
+
+
+
+![Google X](http://www.minid.net/images/googlex.png)
+
+
+
+
+
+> Roses are red. Violets are blue. OS X rocks. Homage to you.
+
+
+
+
+
+Ustedes mismos…
+
+
+
+
+ 

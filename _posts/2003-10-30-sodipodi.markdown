@@ -1,0 +1,29 @@
+---
+comments: false
+date: 2003-10-30 17:24:44
+layout: post
+slug: sodipodi
+title: Sodipodi
+wordpress_id: 1258
+categories:
+- Internet
+---
+
+Otra de las razones por las que estoy usando Linux esta semana es que he instalado un programa parecido al Illustrator llamado [Sodipodi](http://sodipodi.sourceforge.net/). Me gusta mucho, soporta también SVG y ocupa sólo 760 KB comparados contra los 110 MB que ocupa mi amado Illustrator.
+
+
+
+
+
+Sodipodi quizás no sea **el programa** pero lo veo bastante completo, y además me entusiasmaría ver más desarrollos para este programa, que es libre y gratuíto.
+
+
+
+
+
+Detalle de fábula: `# rpm -ivh sodipodi-0.32-1mdk.i586.rpm`. Una maravilla poder hacerlo así… más sabiendo que mucha experiencia no tengo en el Mandrake y este sistema de rpms… pero le voy tomando gustito…
+
+
+
+
+ 

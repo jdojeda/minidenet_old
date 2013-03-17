@@ -1,0 +1,23 @@
+---
+comments: false
+date: 2004-07-23 10:41:45
+layout: post
+slug: ieblog
+title: IEBlog
+wordpress_id: 1872
+categories:
+- Internet
+---
+
+La gente de Microsoft ha incluido otro weblog más a su red de blogs. Esta vez [IEBlog](http://blogs.msdn.com/ie/) el weblog oficial de Internet Explorer.
+
+
+
+
+
+Espero que el grado de actualización de este weblog sea superior al grado de actualizaciones del navegador.
+
+
+
+
+ 

@@ -1,0 +1,17 @@
+---
+comments: false
+date: 2002-01-21 18:32:11
+layout: post
+slug: un-bug
+title: Un bug?
+wordpress_id: 185
+categories:
+- Internet
+---
+
+Acaba de salir dos veces el mismo post y no logro sacarlo. Que macana. Veré que puedo hacer después.
+
+
+
+
+ 

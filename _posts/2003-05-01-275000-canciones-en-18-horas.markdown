@@ -1,0 +1,29 @@
+---
+comments: false
+date: 2003-05-01 20:43:05
+layout: post
+slug: 275000-canciones-en-18-horas
+title: 275.000 canciones en 18 horas
+wordpress_id: 950
+categories:
+- Internet
+---
+
+Según asegura el sitio de la revista [Billboard](http://www.billboard.com/bb/daily/article_display.jsp?vnu_content_id=1878475), Apple ha vendido en tan sólo 18 horas de operación unas 275.000 canciones en el [iTunes Music Store](http://www.apple.com/music/store/), aún teniendo problemas de ancho de banda, conexiones, Apple está haciendo un buen trabajo y está cambiando la forma de hacer negocios con la música.
+
+
+
+
+
+[The Register](http://www.theregister.co.uk/content/39/30511.html) cuenta que además de vender 275 mil canciones, es un promedio muy bueno, “4 canciones por segundo”. Además hacen una comparación entre la venta de un CD normal en una tienda de música, Apple gana un promedio de 0.36 céntimos por canción.
+
+
+
+
+
+Si hacemos un cálculo en 18 horas, Apple se ha metido al bolsillo casi 100.000 dólares, no está nada mal.
+
+
+
+
+ 

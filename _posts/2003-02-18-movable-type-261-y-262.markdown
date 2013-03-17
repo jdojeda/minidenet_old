@@ -1,0 +1,31 @@
+---
+comments: false
+date: 2003-02-18 09:13:01
+layout: post
+slug: movable-type-261-y-262
+title: Movable Type 2.61 y 2.62
+wordpress_id: 840
+categories:
+- Internet
+---
+
+Parece ser que los que estuvieron instalando y usando Movable Type 2.6 tienen un problema de vulnerabilidades, como explica Mena Trott:
+
+
+
+
+
+> Due to a vulnerability that’s been discovered in the file `Author.pm`,   
+
+it’s imperative that any installation of 2.6 be upgraded immediately.
+
+
+
+
+
+Esta vulnerabilidad afecta únicamente a los usuarios de MT 2.6, y les recomiendo que bajen [la actualización](http://www.movabletype.org/download.shtml) o simplemente se bajen [el archivo `Author.pm`](http://www.movabletype.org/downloads/Author.pm) y lo reemplazen en su servidor en la ubicación `lib/MT/Author.pm`.
+
+
+
+
+ 

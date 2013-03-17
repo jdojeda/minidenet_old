@@ -1,0 +1,41 @@
+---
+comments: false
+date: 2002-03-04 11:58:55
+layout: post
+slug: flash-mx
+title: Flash MX
+wordpress_id: 245
+categories:
+- Internet
+---
+
+Macromedia acaba de anunciar el [Flash MX](http://www.macromedia.com/software/flash/). No parece haber mucha emoción, va al menos eso se nota.  
+
+  
+
+Para empezar… éste soporta Windows XP y Mac OS X, quiero ver eso… ahora me estoy fijando si hay una trial version disponible.  
+
+  
+
+128 RAM, wow… eso es un requerimiento… aunque cualquiera que se encuentre en el diseño y se dedique al  Flash tiene más de 128 RAM.  
+
+
+
+> The Macromedia [Flash MX](http://www.macromedia.com/software/flash/) trial is currently unavailable. Sign up for early bird notification and we will e-mail you once the [Macromedia](http://www.macromedia.com) Flash MX trial becomes available. 
+
+  
+
+No se imaginen que esto iba a ser mentira… siempre hacen lo mismo… ahora deben tener unos 20 mails de gente que se quiere interesar en Flash MX, dios y el marketing.  
+
+  
+
+Otra cosa que arruinaron, a mi entender es la identidad del Flash ya tenía, ese cambio brusco de identidad… mmm… aunque antes ellos habían hecho una buena transcisión, con los otros programas, con éste se fueron muy lejos…  
+
+  
+
+
+
+
+
+
+ 

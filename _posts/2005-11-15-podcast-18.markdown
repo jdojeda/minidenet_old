@@ -1,0 +1,12 @@
+---
+comments: false
+date: 2005-11-15 10:16:42
+layout: post
+slug: podcast-18
+title: Podcast 18
+wordpress_id: 2659
+categories:
+- Internet
+---
+
+[Podcast: Skype no quiere más de 4, que le vamos a hacer.](http://www.16bits.net/archivos/pouucast-18-skype-al-limite/)

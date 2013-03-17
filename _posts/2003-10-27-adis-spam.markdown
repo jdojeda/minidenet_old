@@ -1,0 +1,35 @@
+---
+comments: false
+date: 2003-10-27 10:52:45
+layout: post
+slug: adis-spam
+title: Adiós SPAM
+wordpress_id: 1250
+categories:
+- Internet
+---
+
+Ya estáis avisados, ahora he instalado el filtro anti-spam, así que es una pérdida de tiempo total hacerle spam a este weblog.
+
+
+
+
+
+Quien quiera frenar este tipo de ataques le recomiendo que utilice el [MT-Blacklist](http://www.jayallen.org/projects/mt-blacklist/), es **muy bueno**, y permite agregar con una interfase fácil más dominios y palabras raras.
+
+
+
+
+
+Para aliviar y prevenir a otros, lo que haré será publicar una lista de spammers, así no otros no podrán a futuro joderme ni joder a otros webloggers. Quien tenga spam [que me avise](/contactar/) y me envíe la URL me fijaré si no está en mi lista.
+
+
+
+
+
+Spammers y su puta madre.
+
+
+
+
+ 

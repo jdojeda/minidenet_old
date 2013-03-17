@@ -1,0 +1,55 @@
+---
+comments: false
+date: 2005-05-12 12:10:00
+layout: post
+slug: newsfire
+title: NewsFire
+wordpress_id: 2418
+categories:
+- Internet
+---
+
+![Icono](/images/newsfire-icon.png)Llevo ya unos 5 meses usando NetNewsWire Pro y siempre me gustó como programa para leer RSS. Pero hoy quería buscar un programa de RSS alternativo para darle la oportunidad de echarle una mirada. Resulta que, buscando uno que no me acordaba bien el nombre me encuentro con esta maravilla: [NewsFire](http://www.newsfirerss.com).
+
+
+
+
+
+La primera impresión es: _que chiquito es el programa_. Sí, es como [chiquitín de interfaz](http://flickr.com/photos/minid/13544084/), pero las tipografías [tienen un tamaño excelente](http://flickr.com/photos/minid/13544100/) para leer relajado. El programa es rápido. La interfaz es grandiosa, muy bien cuidada y aprovecha muchos controles actuales del Mac OS X Tiger. Disfruté tanto usándolo 5 minutos que me lo compré y deseché el NetNewsWire Lite.
+
+
+
+
+
+![Newsfire interface](http://static.flickr.com/10/13544100_9dbacca360_m.jpg)
+
+
+
+
+
+A pesar de que en el espacio reducido que tiene. La interface te muestra muchos datos interesantes. Por ejemplo, mientras se descargan nuevos ítems, uno puede ver parte del último post que hizo por ejemplo que hizo Pof en su weblog llamado [SkypeAPI per a Linux](http://pof.eslack.org/blog/2005/04/28/skypeapi-per-a-linux/). Si miran la imagen en Flickr podrán observar las anotaciones que hice sobre estas imágenes.
+
+
+
+
+
+![Newsfire interface](http://photos10.flickr.com/13544100_9dbacca360_m.jpg)
+
+
+
+
+
+Esta versión de Newsfire corresponde a la 1.1, que trae un mejor soporte para Podcasts (usando los _enclosures_) permitiéndole una linda fusión con iTunes y Quicktime.
+
+
+
+
+
+Ya lo tengo configurado para que cada vez que visite una bitácora y presione en el botón RSS del Safari me lo agregue al lector de RSS. Además para cuidar el bolsillo de la gente he puesto el lector de RSS sólo cada una hora.
+
+
+
+
+
+La imagen newsfire-icon.png es propiedad intelectual de David Watanabe.. Melbourne, Australia. Más información en: [http://www.newsfirerss.com](http://www.newsfirerss.com)
+  *[RSS]: RDF Site Summary

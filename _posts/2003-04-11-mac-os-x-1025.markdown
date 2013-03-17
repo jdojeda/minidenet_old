@@ -1,0 +1,35 @@
+---
+comments: false
+date: 2003-04-11 12:48:11
+layout: post
+slug: mac-os-x-1025
+title: Mac OS X 10.2.5
+wordpress_id: 914
+categories:
+- Internet
+---
+
+Primera recomendación del día: NO ACTUALIZAR A 10.2.5.
+
+
+
+
+
+Sinceramente me traje la montaña de problemas, parece que Apple la ha cagado esta vez, el sistema funciona bien pero en mi caso por ejemplo no puedo seguir trabajando como antes lo hacía contra el servidor Linux, parece ser que es un problema de Samba, Users IDs, etc.
+
+
+
+
+
+Dios santo, si alguien tiene 10.2.4 dejelo donde está, no actualize hasta que Apple saque algún comunicado u otro patch más pulido.
+
+
+
+
+
+Si alguien tiene los mismos problemas que yo, y los ha solucionado por favor que me avise!
+
+
+
+
+ 

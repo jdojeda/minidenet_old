@@ -1,0 +1,35 @@
+---
+comments: false
+date: 2002-03-20 20:30:03
+layout: post
+slug: artculos
+title: Artículos
+wordpress_id: 273
+categories:
+- Internet
+---
+
+Bueno esto es algo que me debía hace un rato largo… no es por pedido del público pero igualmente lo ubico, a su derecha en la sección principal de navegación de minid.net la sección de [artículos](/articulos/).
+
+
+
+
+
+La idea básica es la de la mayoría de los sitios que publican artículos, éstos estan destinados a temas como [XHTML](/archivos/categorias/articulos_de_minid/un_relato_de_xhtml.php), los estándares web, cómo [diseñar websites](/archivos/categorias/articulos_de_minid/tips_para_desarrollar_un_website.php).
+
+
+
+
+
+La idea es mostrar en lo posible y de una forma bien didáctica ejemplos y relatos de estas disciplinas que tanto me apacionan y tengo ganas de compartir con ustedes. **Espero que le sepan sacar provecho**.
+
+
+
+
+
+Para no perder más tiempo les doy el [acceso directo](/articulos/) a la sección de artículos de este sitio.
+
+
+
+
+ 

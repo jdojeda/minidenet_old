@@ -1,0 +1,110 @@
+---
+comments: false
+date: 2004-11-09 13:07:57
+layout: post
+slug: firefox-10
+title: Firefox 1.0
+wordpress_id: 2091
+categories:
+- Internet
+---
+
+El día ha llegado, [Firefox 1.0](http://www.mozilla.org/products/firefox/) está disponible para descargarlo. Este es el día más esperado por muchos colaboradores, desarrolladores y gente que ha colaborado en este proyecto.
+
+
+
+
+
+![Firefox 1.0](http://www.minid.net/images/firefox-10.png)
+
+
+
+
+
+El proyecto Firefox nació allá por el 2002, en Octubre con una premisa clara: hacer el navegador ideal para los usuarios que no son técnicos, todo basándose en el super navegador [Mozilla](http://www.mozilla.org). Al principio se llamaba Phoenix y de nombre en código Pescadero, pero con el paso del tiempo mutó a diferentes nombres: Phoenix, Firebird, Mozilla Firebird, llegando al nombre definitivo Firefox con el cual hoy en día seguimos llamando.
+
+
+
+
+
+Tanto Firefox como  [Opera](http://www.operasoftware.com) y una decena de navegadores vienen metiéndole muchos cambios y progresos para tratar de superar o coger más cuota de mercado que en estos momentos ocupa un navegador olvidado, muy descuidado y peligroso, me refiero a Internet Explorer.
+
+
+
+
+
+Hoy que es el día del lanzamiento de la versión más pulida, mejorada de Firefox puedes aprovechar y comenzar por descargarte la versión con instalador. Luego darle la oportunidad de usarlo durante un día y volver al IE cuando estrictamente sea necesario.
+
+
+
+
+
+Para los que no conoce Firefox, en este weblog pueden [leer cientos de notas relacionadas](http://www.naiandei.net/mozilla101/) con el mismo, así como unas guías muy interesantes (pero muy desactualizadas) sobre este navegador. De todas formas no quiero prometer una fecha concreta pero tengo empezada la segunda parte de Usa Firefox por un día, donde se explican consejos sobre el uso de Firefox.
+
+
+
+
+
+¿Qué trae de interesante este navegador que no traiga Internet Explorer?
+
+
+
+
+
+Si hay algo de lo que me atajo cuando la gente me menciona esta pregunta, es en las pestañas. Creo sinceramente que esta pequeña mejora, tan amena y con una función relativamente simple mejora significativamente el uso de un navegador en el día a día. He visto clientes tener abiertas unas 9 ventanas de Internet Explorer y perder media hora en seleccionar la pantalla correcta (contabilizo media hora de equivocaciones). 
+
+
+
+
+
+Una vez que está instalado [Mozilla Firefox](http://www.mozilla.org/products/firefox/) la cosa cambia, la barra de tareas de programas en Windows queda despejada, se puede trabajar de forma más cómoda.
+
+
+
+
+
+Luego, para seguir hablando resumidamente de otras ventajas: la extensibilidad. Creo que Firefox es uno de los navegadores más extensibles del mercado. No estoy bromeando, me refiero a la instalación de extensiones que mejoran la calidad del navegador a gusto -por supuesto-del usuario. Cientos de Extensiones que hacen lo suyo y exclusivamente se instalan si el usuario lo desea.
+
+
+
+
+
+La potencia para navegar con este navegador al igual que el Opera es muy notable. Seguramente, todos aquellos que vengan usando Internet Explorer notarán que Firefox va más rápido de lo que pensaban, al igual que el navegador  [Opera](http://www.operasoftware.com), éste “vuela” cuando tiene que cargar páginas de cualquier tipo.
+
+
+
+
+
+La compatibilidad es increíble. [Mozilla Firefox](http://www.mozilla.org/products/firefox/) desde hace dos versiones soporta una serie de detestables comandos que son usualmente utilizados por desarrolladores de Internet Explorer, sobre todo en el área de Javascript, que tanto molesta. Con esta versión muchos sitios que no funcionaban correctamente funcionan. Eso si cuidado con entrar a páginas que dicen funciona sólo con Internet Explorer.
+
+
+
+
+
+Ya era hora navegantes, desarrolladores de que conozcan uno de los mejores navegadores y [traducido en más de 10 idiomas](http://www.mozilla.org/products/firefox/all.html)…
+
+
+
+
+
+Elige:
+
+
+
+
+
+  
+
+
+  * [Firefox en Inglés](http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/1.0/win32/en-US/Firefox%20Setup%201.0.exe)
+
+
+  * [Firefox en Español](http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/1.0/win32/es-AR/Firefox%20Setup%201.0.exe)
+
+
+  * [Firefox en Catalán](http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/1.0/win32/ca-AD/Firefox%20Setup%201.0.exe)
+
+
+
+
+ 

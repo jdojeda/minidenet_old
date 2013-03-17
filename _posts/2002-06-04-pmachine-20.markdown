@@ -1,0 +1,17 @@
+---
+comments: false
+date: 2002-06-04 08:56:51
+layout: post
+slug: pmachine-20
+title: pmachine 2.0
+wordpress_id: 409
+categories:
+- Internet
+---
+
+[pMachine 2.0](http://www.pmachine.com/) es un nuevo sistema de weblogs, muy completo por sobre todo, viene en dos versiones, una es la pro y la otra es free. La lista completa de [las características](http://www.pmachine.com/features.php) esta muy jugosa, ya se empiezan a ver clones, el ataque de los clones wooo! :D.
+
+
+
+
+ 

@@ -1,0 +1,17 @@
+---
+comments: false
+date: 2002-07-12 09:50:40
+layout: post
+slug: una-seal
+title: Una señal…
+wordpress_id: 451
+categories:
+- Internet
+---
+
+Y ahora los chicos de [37signals](http://www.37signals.com), rehicieron otra vez su sitio usando XHTML Transitional y CSS 2.
+
+
+
+
+ 

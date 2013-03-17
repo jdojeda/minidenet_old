@@ -1,0 +1,17 @@
+---
+comments: false
+date: 2002-11-05 13:36:51
+layout: post
+slug: chimera-06
+title: Chimera 0.6
+wordpress_id: 660
+categories:
+- Internet
+---
+
+Ya está disponible la [versión 0.6](http://www.mozilla.org/projects/chimera/) del famoso “Chimera” imagino que esto tiene que ir más lejos ojalá Apple le ponga un ojo serio a Chimera.
+
+
+
+
+ 

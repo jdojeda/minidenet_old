@@ -1,0 +1,35 @@
+---
+comments: false
+date: 2004-04-13 10:03:13
+layout: post
+slug: le-breeze
+title: Le Breeze
+wordpress_id: 1651
+categories:
+- Internet
+---
+
+[Le Breeze](http://www.alazanto.org/lebreeze/) es un nuevo tema para [Mozilla Firefox](http://www.mozilla.org/products/firefox/) y [Mozilla Thunderbird](http://www.mozilla.org/products/thunderbird/). Es grisáceo, minimalista y parecido al tema [Breeze](http://fls.moo.jp/moz/breeze.html) que tanto utilizo, así que hoy le he dado una oportunidad. El tema me gusta, tanto para Firefox como para el Thunderbird se siente cómodo, rápido. La iconografía hace que el tema ocupe un espacio adicional, si lo comparamos con [Breeze](http://fls.moo.jp/moz/breeze.html), que utiliza iconos pequeños, Le Breeze queda un poquito más ancho en todo.
+
+
+
+
+
+![Tema Le Breeze](http://www.minid.net/images/lebreeze-firefox.png)
+
+
+
+
+
+![Tema Le Breeze](http://www.minid.net/images/lebreeze-thunder.png)
+
+
+
+
+
+El tema de [Mozilla Thunderbird](http://www.mozilla.org/products/thunderbird/) me gusta bastante, estaba utilizando el tema normal porque el [Breeze](http://fls.moo.jp/moz/breeze.html) no me iba bien.
+
+
+
+
+ 

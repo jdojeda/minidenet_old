@@ -1,0 +1,17 @@
+---
+comments: false
+date: 2004-12-20 20:00:10
+layout: post
+slug: lol
+title: LOL
+wordpress_id: 2167
+categories:
+- Internet
+---
+
+[LOL](http://www.lol.com)
+
+
+
+
+ 

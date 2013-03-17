@@ -1,0 +1,12 @@
+---
+comments: false
+date: 2005-10-28 16:29:35
+layout: post
+slug: were-1337
+title: We&#039;re 1337
+wordpress_id: 2637
+categories:
+- Internet
+---
+
+[Friki: Una canción dedicada a todos los 1337, rapeada por la banda 64k](http://www.loadingreadyrun.com/showmovie.php?x=480&y=360&url=1337.mp4)

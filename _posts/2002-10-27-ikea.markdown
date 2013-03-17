@@ -1,0 +1,23 @@
+---
+comments: false
+date: 2002-10-27 17:13:49
+layout: post
+slug: ikea
+title: IKEA
+wordpress_id: 644
+categories:
+- Diseño
+---
+
+Me encanta el diseño de [IKEA](http://www.ikea.es), es muy swenka y minimalista… pero su sitio de internet es practicamente anti-útil. Muy complejo, hay tantas cosas repartidas por tantos lados… si tan sólo fueran un poco más metódicos para hacerlo bien…
+
+
+
+
+
+Además es una pena entrar y tener cientos de errores de asp, por dios.
+
+
+
+
+ 

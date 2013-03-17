@@ -1,0 +1,82 @@
+---
+comments: false
+date: 2004-03-23 16:02:13
+layout: post
+slug: rbol
+title: Árbol
+wordpress_id: 1606
+categories:
+- Internet
+---
+
+Hoy descubro un interesante _script_ llamado [Tree](http://www.destroydrop.com/javascripts/tree/). Te permite generar sistemas de navegación metafóricos, concretamente lo que se conoce técnicamente por grafos conexos acíclicos. &Eacute;stos tienen niveles ilimitados, o sea que puedes crear árboles de jerarquías y estructuras. En determinados casos puede resultar útil. Me gustaría una versión que escupa un código un poco más limpito. Podría escribir `&lt;ul&gt;` y `&lt;li&gt;` de forma más ordenada.
+
+
+
+
+
+![Grafo Conexo Cíclico](http://www.minid.net/images/tree.png)  
+
+
+
+
+
+
+
+Las características:
+
+
+
+
+
+  
+
+
+  * Niveles ilimitados.
+
+
+  * Puede ser utilizado con frames.
+
+
+  * Recuerda los niveles abiertos cuando se va entre páginas.
+
+
+  * Posibilidad de tener más de un árbol en cada página.
+
+
+  * Soportado por la mayoría de los navegadores  
+
+  
+
+
+    * Internet Explorer 5+
+
+
+    * Netscape 6+
+
+
+    * Opera 7+
+
+
+    * Mozilla
+
+  
+
+
+
+
+  * Genera XHTML 1.0 stricto.
+
+
+  * Imágenes alternativas por nodos.
+
+
+
+
+
+Terminando esto, no se pierdan de visitar [Destroydrop](http://www.destroydrop.com), que es un blog muy bonito.
+
+
+
+
+ 

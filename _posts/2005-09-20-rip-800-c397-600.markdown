@@ -1,0 +1,42 @@
+---
+comments: false
+date: 2005-09-20 20:31:47
+layout: post
+slug: rip-800-%c3%97-600
+title: R.I.P. 800 × 600
+wordpress_id: 2573
+categories:
+- Internet
+---
+
+Estos días, mientras reviso las estadísticas, le eché una mirada a las resoluciones en pantalla que usan mis lectores. Increíble pero real, el 54% utiliza una resolución de 1024 × 768 seguido por un 17% que va a resoluciones de 1280 × 1024. 800 × 600 sólo llega apenas al 14% y el resto se lo reparten entre otras resoluciones, entre las cuales, las de 600 píxeles pertenecen al porcentaje mísero del 1%.
+
+
+
+
+
+No es extraño, que mucha gente siga todavía diciendo que la regla debe ser «diseñar para 800 × 600» es la recomendación, pero, viendo como van los avances de placas y equipos no es de extrañar que las resoluciones crezcan por defecto y no por elección del mismo usuario. Ahora, la placa más chorra que puedes conseguir en cualquier tienda soporta por defecto a calidad excelente los 800 × 600. Todos los portátiles que veo llevan por defecto esta resolución.
+
+
+
+
+
+Minid.net no es la referencia de consumo de mercado, ni mucho menos un sitio para mirar y tomar decisiones de qué resolución tomar. Pero teniendo en cuenta que hay muchísima gente metida aquí y vienen de todos los países, colores y gustos no viene mal hacer esta reflexión.
+
+
+
+
+
+De momento, me decanté por la solución más abierta posible, que son las _liquid layouts_. Estas permiten adaptarse a cualquier resolución, pero a su vez limito el largo de las mismas para resoluciones muy grandes. El sitio se ve perfecto en un PSP que es un dispositivo que apenas llega a los 500 píxeles de ancho.
+
+
+
+
+
+Diseñar para resoluciones de más de 800 × 600 permite entre otras cosas aprovechar otro estilo de diseño. Tipografías más grandes, para una lectura más relajada que la habitual. Leer letras pequeñas no beneficia más que al look and feel del sitio. En mi caso, para leer más cómodo aumento el tamaño de todos las tipografías, no es que veo mal es que no quiero terminar ciego (recomendación del oculista). Además, las páginas se hacen menos largas, se puede aprovechar un modelo de 3 columnas mejor que si fuere 800 × 600. La horizontalidad que proporcionaría la página sería idea para idear otras formas de representar datos, incluso, hasta podría desarrollarse de forma diferente.
+
+
+
+
+
+Si las estadísticas marcan claramente que hay una gran mayoría a esta resolución, _¿por qué seguir en el modelo 800 × 600? ¿Es el fin definitivo del 800 × 600?_

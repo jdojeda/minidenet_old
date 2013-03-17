@@ -1,0 +1,30 @@
+---
+comments: false
+date: 2006-04-11 14:28:51
+layout: post
+slug: '2787'
+title: 'Nuevo tag en XHTML: CWT'
+wordpress_id: 2787
+categories:
+- Internet
+---
+
+Faltaba una ampliación en la especificación XHTML. Faltaba una etiqueta que, injustamente, no se le ocurrió ni al mismísimo Marc Andersen en persona, me refiero a la etiqueta `&lt;cwt&gt;`. Para ello, Ale nos introduce en lo que sería [la traducción oficial del apartado del `&lt;cwt&gt;`](http://www.sofanaranja.com/2006/04/10/un-nuevo-tag-xhtml-cwt/):
+
+
+
+
+
+> Es un hecho demostrado de la vida profesional de cualquiera que trabaje con clientes el que, antes o después, tendrás que producir algo con lo que no estás de acuerdo.
+> 
+> 
+
+
+> 
+> La discrepancia puede ir desde el inofensivo «el color no es apropiado» hasta el demoledor «este proyecto no tiene ningún sentido», pasando por toda una gama de emociones que, a veces, cuesta trabajo describir…
+
+
+
+
+
+Lo curioso, esta etiqueta no tiene ni un atributo.

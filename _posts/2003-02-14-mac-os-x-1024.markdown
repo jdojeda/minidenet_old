@@ -1,0 +1,29 @@
+---
+comments: false
+date: 2003-02-14 12:31:28
+layout: post
+slug: mac-os-x-1024
+title: Mac OS X 10.2.4
+wordpress_id: 834
+categories:
+- Internet
+---
+
+La actualización para el 10.2.4 ya está disponible para su descarga según leo desde el sitio web de [Faqmac](http://www.faq-mac.com/mt/archives/002712.html) la disponibilidad para descargar la actualización [independiente 10.2.4](http://docs.info.apple.com/article.html?artnum=70167) (40Mb) y la [actualización completa 10.2.4](http://docs.info.apple.com/article.html?artnum=70168) Combo (76Mb).
+
+
+
+
+
+> La Actualización 10.2.4 incorpora mejoras en la funcionalidad y fiabilidad de las siguientes aplicaciones, servicios y tecnologías: Agenda, compatibilidad con el entorno Classic, Finder, FireWire, Graphics, OpenGL y Sherlock. Además, incluye mejoras en los servicios de archivos AFP y Windows, así como en audio, grabación de discos, gráficos e impresión
+
+
+
+
+
+Cuando llegue a la casa de faemino le doy al “Software Update” yahoooo!.
+
+
+
+
+ 

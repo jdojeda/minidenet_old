@@ -1,0 +1,48 @@
+---
+comments: false
+date: 2004-04-01 09:11:29
+layout: post
+slug: gnome-26
+title: GNOME 2.6
+wordpress_id: 1625
+categories:
+- Internet
+---
+
+Usuarios de [KDE](http://www.kde.org) no se lo tomen a mal, pero soy un  _gnomero_ total. Aunque [faemino](http://www.anedonia.net) me muestra su KDE todos los días, no hay caso, GNOME me puede más, y justo hoy [me entero gracias a Yonderboy](http://barrapunto.com/articles/04/03/31/2319218.shtml) que [han sacado su versión 2.6](http://www.gnome.org/start/2.6/).
+
+
+
+
+
+Mucha gente todavía no está convencida de la belleza que tienen los escritorios de Linux, deben creen que todo es consola, [pero no es así](http://fgo-temp.acc.umu.se/pub/GNOME/teams/marketing/en/2004/two-six-screenshots/html/), la consola es una herramienta útil, pero el escritorio es para mí insuperable.
+
+
+
+
+
+Soy usuario de ambos sistemas: GNOME y KDE. KDE tiene muchas cosas que me gustan pero no tiene los toques gráficos que el GNOME tiene, además la presentación de las cosas en [GNOME](http://www.gnome.org) siempre me han parecido más trabajadas.
+
+
+
+
+
+Son gustos, y lo bueno de esto es que puedo irme al sistema de ventanas que quiera, total, no me preocupan las estadísticas mayoritarias.
+
+
+
+
+
+¿Haz instalado GNOME 2.6?
+
+
+
+
+
+**PD:**  Por cierto, a ver si este fin de semana, me actualizo de Mandrake 9.2 al 10.
+
+
+
+
+ 
+  *[PD:]: Posdata

@@ -1,0 +1,21 @@
+---
+comments: false
+date: 2002-01-18 22:45:16
+layout: post
+slug: pumacom
+title: Puma.com
+wordpress_id: 177
+categories:
+- Internet
+---
+
+[PUMA.com](http://www.puma.com/) cambia su vieja fachada / website de color rojo por algo más minimalista… pero a los chicos se les olvidó algo… ordenar mejor la información…  
+
+  
+
+Dios santo… buscar algo es totalmente una experiencia horrible, decir que soy un fanático de Puma no basta… pero podrín haber dedicado aunque sea **1 semana** a estudiar la arquitectura del sitio o la usabilidad… por ejemplo no existe las categorías o secciones de hombres y mujeres, algo escencial para un sitio de este tipo.
+
+
+
+
+ 

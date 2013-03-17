@@ -1,0 +1,31 @@
+---
+comments: false
+date: 2005-09-15 02:36:10
+layout: post
+slug: '2556'
+title: Feeds completos para el buscador de blogs de Google
+wordpress_id: 2556
+categories:
+- Internet
+---
+
+Parece que, el [buscador de _blogs_ de Google](http://www.google.com/blogsearch), [sólo indexa por RSS](http://blog.softtechvc.com/2005/09/googlesearch_is.html). Lo que significa que si tienes un _blog_ que sólo ofrece _feeds_ resumidos no habrá opciones de un "indexado total" de lo que escribas. Una razón más para dar los _feeds_ por completo, salvo que, _vivas de la publicidad_ y lo que necesites sea: traer visitantes a tu sitio. Sin embargo, podrás traer visitantes igual por el buscador normal.
+
+
+
+
+
+Ayer intenté explicar mi punto de vista sobre la publicidad en los RSS. Los RSS sirven para _llevar a los lectores a las páginas_ por mencionar un caso. Aunque alguno lo utilice con otro fin, me quedo [con este punto de vista](http://www.zoliblog.com/blog/_archives/2005/9/14/1227123.html) que quizás ayuda a todos aquellos que dependen de la publicidad en sus bitácoras:
+
+
+
+
+
+> Unless your blog is _all about ad-revenue generation_, in which case you need to attract readers to your site, there is _no_ reason **to not serve up the entire post in your feed**. It’s really simple: in this world of infoglut either you make reading your blog convenient, or expect to lose subscribers who are fed up with clicking and waiting. Submitting a ‘bait’ in your feed defeats the purpose of RSS Readers.
+
+
+
+
+
+Leyendo eso quizás obtengan más respuestas del por qué es tonto poner publicidad en los _feeds_. Dadme RSS limpios de publicidad, resumidos, invitadme a pasar a vuestra web... ese debería ser el lema. Sigue en pie el punto de vista y sin estar en contra de la publicidad en los _weblogs_.
+  *[RSS]: RDF Site Summary

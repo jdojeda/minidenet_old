@@ -1,0 +1,23 @@
+---
+comments: false
+date: 2003-08-11 19:36:13
+layout: post
+slug: xml-base
+title: XML Base
+wordpress_id: 1104
+categories:
+- Internet
+---
+
+Ja està disponible [XML Base](http://www.minid.net/utilidades/w3c/xmlbas/) en català, ara [pots començar](http://www.minid.net/utilidades/w3c/) a submergir-te en el món XML, molt aviat acabarem XML segona edició.
+
+
+
+
+
+Moltes gràcies a [Sirkeldon](http://www.sirkeldon.org) per treure’m els dubtes que he tingut al pas.
+
+
+
+
+ 
