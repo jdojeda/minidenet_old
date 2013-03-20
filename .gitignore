@@ -2,4 +2,5 @@
 /fonts/
 /less/
 /*.png
+minid.sh
 .DS_Store
